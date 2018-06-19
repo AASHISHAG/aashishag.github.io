@@ -27,7 +27,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -44,7 +44,7 @@ staticman:
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
-  path                   : "/_data/comments/{options.slug}" (default)
+  path                   : "docs/_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
@@ -52,7 +52,7 @@ staticman:
     date:
       type               : "date"
       options:
-        format           : "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
   siteKey                :
   secret                 :
