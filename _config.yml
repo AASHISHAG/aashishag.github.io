@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Ajinkya Takawale"
 title_separator          : "-"
-name                     : "Ajinkya"
+name                     : "Ajinkya Takawale"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -39,7 +39,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master"
+  branch                 : "master" 
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Ajinkya"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Senior undergraduate fascinated by Machine Learning and A.I"
+  bio              : "Machine Learning and A.I"
   location         : "India"
   email            : 
   uri              :
