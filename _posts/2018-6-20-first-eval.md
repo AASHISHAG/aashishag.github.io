@@ -5,9 +5,6 @@ layout: single
 author_profile: true
 comments: true
 tags: [GSoC, AVSR]
-<!-- toc: true
-toc_label: "Learning Git"
-toc_icon: "heart" -->
 ---
 
 So it has nearly been a month since the start of official coding period (14th of May) and I successfully passed the first evalution! :wink:
