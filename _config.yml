@@ -100,7 +100,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ajinkya T"
+  name             : "Ajinkya Takawale"
   avatar           : "/others/profile_pic.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Machine Learning and A.I"
   location         : "India"
