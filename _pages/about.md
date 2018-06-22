@@ -1,9 +1,13 @@
 ---
-layout: single
+layout: splash
 title: "About"
 permalink: /About/
 comments: false
 author_profile: true
+excerpt: "When will we reach singularity?"
+header:
+  overlay_image: /others/night-sky_style_transfer.jpg
+  overlay_filter: 0.1
 ---
 
 
@@ -24,4 +28,3 @@ I am a final year undergraduate student at IIT Kharagpur fascinated by Machine L
 - Database: SQL, PostgreSQL
 - Version Control: Git, GitHub
 - Other: Linux, Shell Scripting
- 
