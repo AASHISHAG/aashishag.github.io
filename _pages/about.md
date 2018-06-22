@@ -1,13 +1,15 @@
 ---
 layout: single
-title: "About"
+title: "About Me"
 permalink: /About/
 comments: false
 author_profile: true
-excerpt: "When will we reach singularity?"
+excerpt: "Eagerly waiting for A.I revolution to happen!"
 header:
   overlay_image: /others/night-sky_style_transfer.jpg
   overlay_filter: 0.1
+  cta_label: "More Info"
+  cta_url: "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html"
 ---
 
 
@@ -19,7 +21,7 @@ I am a final year undergraduate student at IIT Kharagpur fascinated by Machine L
   B.Tech Mechanical Engineering
 
 
-### Skills:
+### Stuff I like to play with:
 - Data Analysis and Visualizaion: Excel, Numpy, Pandas, Matplotlib, Seaborn
 - Machine Learning: Scikit-learn, SciPy 
 - Deep Learning: TensorFlow, Keras
