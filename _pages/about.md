@@ -7,7 +7,7 @@ author_profile: true
 excerpt: "Eagerly waiting for A.I revolution to happen!"
 header:
   overlay_image: /others/night-sky_style_transfer.jpg
-  overlay_filter: 0.1
+  overlay_filter: 0.0
   cta_label: "More Info"
   cta_url: "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html"
 ---
