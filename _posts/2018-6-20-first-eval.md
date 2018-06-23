@@ -6,6 +6,9 @@ author_profile: true
 comments: true
 tags: [GSoC, AVSR]
 category: GSoC
+header:
+  overlay_image: /others/GSOC.png
+  overlay_filter: 0.0
 ---
 
 So it has nearly been a month since the start of official coding period (14th of May) and I successfully passed the first evalution! :wink:
