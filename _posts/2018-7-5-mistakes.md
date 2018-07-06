@@ -1,5 +1,5 @@
 ---
-title:  "GSoC First Evaluation"
+title:  "Overcoming Hurdles - Connecting CNN with LSTM"
 date:   2018-7-05
 layout: single
 author_profile: true
