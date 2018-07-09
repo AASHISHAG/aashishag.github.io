@@ -6,6 +6,9 @@ author_profile: true
 comments: true
 tags: [GSoC, AVSR]
 category: GSoC
+toc: true
+toc_label: "Resources"
+toc_icon: "heart"
 ---
 
 ![](/others/GSOC.png)
