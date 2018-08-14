@@ -13,7 +13,7 @@ header:
 ---
 
 
-I am a final year undergraduate student at IIT Kharagpur fascinated by Machine Learning and A.I applications. I like to contribute to open source projects related to Deep Learning in some form or other. Apart from that I like to listen trance and indie music, watching movies (favourite ones being Matrix, Fight Club, Pursuit of Happi(y)ness :wink: and Wild), T.V Series (how can I forget to mention "Silicon Valley"? :smirk:) and swimming.
+I am a final year undergraduate student at IIT Kharagpur fascinated by Machine Learning and A.I applications. I like to contribute to open source projects related to Deep Learning, and participate in machine learning competitions.
 
 
 ### Education:
