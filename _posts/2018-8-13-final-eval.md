@@ -46,3 +46,4 @@ Link to [Repository of Code](https://github.com/ajinkyaT/Lip_Reading_in_the_Wild
 - [My GSoC 2018 Journey](https://ajinkyat.github.io/categories/#gsoc)
 - [Repository of Code](https://github.com/ajinkyaT/Lip_Reading_in_the_Wild_AVSR)
 - [My proposal for the project](https://github.com/ajinkyaT/GSOC_Red_Hen_Lab/blob/master/Ajinkya_Proposal_for_AVSR.md)
+- [Red Hen Lab organization page](http://www.redhenlab.org/)
