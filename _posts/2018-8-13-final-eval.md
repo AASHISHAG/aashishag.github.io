@@ -13,6 +13,8 @@ toc_icon: "heart"
 
 ![](/others/GSOC.png)
 
+Link to [Repository of Code](https://github.com/ajinkyaT/Lip_Reading_in_the_Wild_AVSR)
+
 ### Describe my work briefly
 
 - Study previous work done by GSoC 2017 candidate and propose improvements
