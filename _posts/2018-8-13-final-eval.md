@@ -7,7 +7,7 @@ comments: true
 tags: [GSoC, AVSR]
 category: GSoC
 toc: true
-toc_label: "Resources"
+toc_label: "Contents"
 toc_icon: "heart"
 ---
 
