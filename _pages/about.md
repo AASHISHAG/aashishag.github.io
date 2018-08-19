@@ -13,7 +13,7 @@ header:
 ---
 
 
-I am a final year undergraduate student at IIT Kharagpur fascinated by Machine Learning and A.I applications. I like to contribute to open source projects related to Deep Learning, and participate in machine learning competitions.
+I am a final year undergraduate student at IIT Kharagpur fascinated by Machine Learning and A.I applications. I like to contribute to open source projects related to Deep Learning, and participate in machine learning competitions. I strongly believe in top-down approach of learning and admire hacker attitude of getting things done quickly :sunglasses:
 
 
 ### Education:
