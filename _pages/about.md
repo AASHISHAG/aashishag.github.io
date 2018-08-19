@@ -25,7 +25,7 @@ I am a final year undergraduate student at IIT Kharagpur fascinated by Machine L
 - Data Analysis and Visualizaion: Excel, Numpy, Pandas, Matplotlib, Seaborn
 - Machine Learning: Scikit-learn, SciPy 
 - Deep Learning: TensorFlow, Keras, PyTorch
-- Natural Language Processing: NLTK, SpaCy, Rasa Stack (Conversational System)
+- Natural Language Processing: NLTK, SpaCy, Rasa Stack (open source conversational AI)
 - Computer Vision: OpenCV, Skimage
 - Database: SQL, PostgreSQL
 - Version Control: Git, GitHub
