@@ -29,4 +29,4 @@ I am a final year undergraduate student at IIT Kharagpur fascinated by Machine L
 - Computer Vision: OpenCV, Skimage
 - Database: SQL, PostgreSQL
 - Version Control: Git, GitHub
-- Other: Linux, Shell Scripting
+- Other: Linux, Shell Scripting, Flask (App hosting, API)
