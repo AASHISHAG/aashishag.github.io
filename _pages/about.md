@@ -24,7 +24,7 @@ I am a final year undergraduate student at IIT Kharagpur fascinated by Machine L
 ### Stuff I like to play with:
 - Data Analysis and Visualizaion: Excel, Numpy, Pandas, Matplotlib, Seaborn
 - Machine Learning: Scikit-learn, SciPy 
-- Deep Learning: TensorFlow, Keras
+- Deep Learning: TensorFlow, Keras, PyTorch
 - Natural Language Processing: NLTK, SpaCy, Rasa Stack (Conversational System)
 - Computer Vision: OpenCV, Skimage
 - Database: SQL, PostgreSQL
