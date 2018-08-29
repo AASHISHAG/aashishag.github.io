@@ -15,6 +15,8 @@ header:
 
 I am a final year undergraduate student at IIT Kharagpur fascinated by Machine Learning and A.I applications. I like to contribute to open source projects related to deep learning, and participate in machine learning competitions. I strongly believe in top-down approach of learning and admire hacker attitude of getting things done quickly :sunglasses:
 
+Find me on GitHub: [ajinkyaT](http://github.com/ajinkyaT)
+
 
 ### Education:
 - **Indian Institute of Technology Kharagpur** (2015 - 2019)   
