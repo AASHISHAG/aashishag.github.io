@@ -10,7 +10,7 @@ comments: false
 
 ### Links to GitHub repositories
 
-[Intent classification in a chatbot using Convolutional Neural Networks](https://github.com/ajinkyaT/CNN_Intent_Classification)
+[Intent classification for a chatbot using Convolutional Neural Networks](https://github.com/ajinkyaT/CNN_Intent_Classification)
 
 [FAQ's answering chatbot using open source Conversational AI framework Rasa Stack](https://github.com/ajinkyaT/FAQ_Chatbot_Rasa)
 
