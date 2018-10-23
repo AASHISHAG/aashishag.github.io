@@ -11,6 +11,8 @@ toc_label: "Contents"
 toc_icon: "heart"
 ---
 
+![](https://rasa.com/assets/img/rasa-ecosystem.png)
+
 ### Overview
 
 We will be using [Rasa Stack](https://rasa.com/products/rasa-stack/) to build our conversational A.I chatbot to answer FAQ's about [Git](http://gitfaq.org/). The reason being Rasa is open source and hence we will no longer need to send our confidential data to the above cloud service providers.
