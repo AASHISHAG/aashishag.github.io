@@ -13,7 +13,7 @@ header:
 ---
 
 
-I am a final year undergraduate student at IIT Kharagpur fascinated by Machine Learning and A.I applications. I like to contribute to open source projects related to deep learning, and participate in machine learning competitions. let's connect to contribute to open-source world of AI :sunglasses:
+I am a final year undergraduate student at IIT Kharagpur fascinated by Machine Learning and A.I applications. I like to contribute to open source projects related to deep learning, and participate in machine learning competitions. let's connect and contribute to open-source world of AI :sunglasses:
 
 Find me on GitHub: [ajinkyaT](http://github.com/ajinkyaT)
 
