@@ -149,9 +149,9 @@ This will find the nearest matching question in the question column of ./data/fa
 
 ``` bash
 USER: hello!
-Bot: Hello! How can I help?
+BOT: Hello! How can I help?
 USER: pushing my changes
-BOT:  Here's something I found, 
+BOT:  Here is something I found 
       Document: http://gitfaq.org/articles/how-do-i-push-my-changes.html 
       Page number: 1 
       Question:  How do I push my changes? 
