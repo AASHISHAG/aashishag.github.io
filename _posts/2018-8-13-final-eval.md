@@ -29,6 +29,8 @@ Apart from that Rasa offers flexibility to customize our model according to our 
 
 3) Install Rasa Core (version used 9.5): [Rasa Core Installation](https://core.rasa.com/installation.html)
 
+4) [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy): Fuzzy String Matching in Python for similar text retrieval
+
 ### Getting Or Generating Data
 
 We will need labeled user data for training our NLU or interpretor part. While it is always better to have more data to train our ML models but in case we don't have it we can use free services such as [Chatito](https://rodrigopivi.github.io/Chatito/) or [Tracy](https://github.com/YuukanOO/tracy) to synthetically generate one to suite our use case.
