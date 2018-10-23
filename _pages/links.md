@@ -6,12 +6,16 @@ author_profile: true
 comments: false
 ---
 
-<br><br>
+<br>
 
-[GitHub repository for Deep Learning and Entity Embeddings to predict driving behavior and accident hotspots](https://github.com/ajinkyaT/Deep_learning_Entity_Embeddings)
+### Links to GitHub repositories
 
-[GitHub repository for Audio Visual Speech Recognition (AVSR)](https://github.com/ajinkyaT/Lip_Reading_in_the_Wild_AVSR)
+[Intent classification in a chatbot using Convolutional Neural Networks](https://github.com/ajinkyaT/CNN_Intent_Classification)
 
-[GitHub repository for Intent classification in a chatbot using Convolutional Neural Networks](https://github.com/ajinkyaT/CNN_Intent_Classification)
+[FAQ's answering chatbot using open source Conversational AI framework Rasa Stack](https://github.com/ajinkyaT/FAQ_Chatbot_Rasa)
+
+[Deep Learning and Entity Embeddings to predict driving behavior and accident hotspots](https://github.com/ajinkyaT/Deep_learning_Entity_Embeddings)
+
+[Audio Visual Speech Recognition (AVSR) using Deep Learning](https://github.com/ajinkyaT/Lip_Reading_in_the_Wild_AVSR)
 
 
