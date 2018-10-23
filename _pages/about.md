@@ -13,7 +13,9 @@ header:
 ---
 
 
-I am a final year undergraduate student at IIT Kharagpur fascinated by Machine Learning and A.I applications. I like to contribute to open source projects related to Deep Learning, and participate in machine learning competitions.
+I am a final year undergraduate student at IIT Kharagpur fascinated by Machine Learning and A.I applications. I like to contribute to open source projects related to deep learning, and participate in machine learning competitions. I strongly believe in top-down approach of learning and admire hacker attitude of getting things done quickly :sunglasses:
+
+Find me on GitHub: [ajinkyaT](http://github.com/ajinkyaT)
 
 
 ### Education:
@@ -24,9 +26,9 @@ I am a final year undergraduate student at IIT Kharagpur fascinated by Machine L
 ### Stuff I like to play with:
 - Data Analysis and Visualizaion: Excel, Numpy, Pandas, Matplotlib, Seaborn
 - Machine Learning: Scikit-learn, SciPy 
-- Deep Learning: TensorFlow, Keras
-- Natural Language Processing: NLTK, SpaCy, Rasa Stack (Conversational System)
+- Deep Learning: TensorFlow, Keras, PyTorch
+- Natural Language Processing: NLTK, SpaCy, Rasa Stack (open source conversational AI)
 - Computer Vision: OpenCV, Skimage
 - Database: SQL, PostgreSQL
 - Version Control: Git, GitHub
-- Other: Linux, Shell Scripting
+- Other: Linux, Shell Scripting, Flask (App hosting, API)

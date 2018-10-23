@@ -7,11 +7,13 @@ comments: true
 tags: [GSoC, AVSR]
 category: GSoC
 toc: true
-toc_label: "Resources"
+toc_label: "Contents"
 toc_icon: "heart"
 ---
 
 ![](/others/GSOC.png)
+
+Link to [Repository of Code](https://github.com/ajinkyaT/Lip_Reading_in_the_Wild_AVSR)
 
 ### Describe my work briefly
 

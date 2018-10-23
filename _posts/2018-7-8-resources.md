@@ -34,7 +34,7 @@ Not a speech to text system but to match lip video with corresponding audio. [Li
 
 [Keras implementation of Vid2speech](https://github.com/arielephrat/vid2speech) based on paper, [Vid2Speech: Speech Reconstruction from Silent Video](https://arxiv.org/abs/1701.00495) project site [here](http://www.vision.huji.ac.il/vid2speech/).
 
-[TensorFlow implementation of a seq2seq model for Speech Recognition](https://github.com/thomasschmied/Speech_Recognition_with_Tensorflow) not a visual speech recognition but audio speech recognition based on paper, [Listen, Attend and Spell](https://arxiv.org/abs/1508.01211). This was a improvement over DeepSpeech by using seq2seq architecture with attention mechanism. Also the architecture is similar to the audio only part of Lip Reading Sentences in the Wild (LRW) model.
+[TensorFlow implementation of a seq2seq model for Speech Recognition](https://github.com/thomasschmied/Speech_Recognition_with_Tensorflow) not a visual speech recognition but audio speech recognition based on paper, [Listen, Attend and Spell](https://arxiv.org/abs/1508.01211). This was an improvement over DeepSpeech by using seq2seq architecture with attention mechanism. Also the architecture is similar to the audio only part of Lip Reading Sentences in the Wild (LRW) model.
 
 A recently released paper from the authors of lip reading in the wild and lip reading using ResNet, [Deep Lip Reading: a comparison of models and an online application](https://arxiv.org/abs/1806.06053). The focus is on using Spatio-Temporal 3D CNN to extract visual features.
 
