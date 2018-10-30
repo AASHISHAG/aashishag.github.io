@@ -22,7 +22,7 @@ After searching for reasonable amount of time how to implement this in TensorFlo
 - [How to Use the TimeDistributed Layer for Long Short-Term Memory Networks in Python](https://machinelearningmastery.com/timedistributed-layer-for-long-short-term-memory-networks-in-python/)
 - [CNN Long Short-Term Memory Networks](https://machinelearningmastery.com/cnn-long-short-term-memory-networks/)
 
-But since whole project was meant to be implemented in TensorFlow, using Keras wasn't really an option. After seeking help from my mentor Karan, he suggested me using a [tf.map_fn](https://www.tensorflow.org/api_docs/python/tf/map_fn). This API repeatedly applies the callable function to a sequence of elements from first to last. A possible implementation will look something as below:
+But since whole project was meant to be implemented in TensorFlow, using Keras wasn't really an option. After seeking help from my mentor, he suggested me using a [tf.map_fn](https://www.tensorflow.org/api_docs/python/tf/map_fn). This API repeatedly applies the callable function to a sequence of elements from first to last. A possible implementation will look something as below:
 
 ``` python
 inputs = tf.placeholder(shape=[batch_size,sequence_length,112,112,5] ,dtype = tf.float32)
