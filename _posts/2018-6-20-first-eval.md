@@ -36,7 +36,7 @@ Solution to this type of problem where we didn't had access to labelled data was
 
 Model architecture shown below, 
 
-![](https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-319-54427-4_19/MediaObjects/426014_1_En_19_Fig2_HTML.gif)
+![](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/87defac1045bfa9af0162cd248d193e9be6eb25b/4-Figure2-1.png)
 
 Though originally trained to detect offset of audio lag in a video but taking input of mouth cropped images and corresponding audio and then minimizing constrastive loss function to minimize l2 distance between visual and audio embeddings from fc7 layers for positive pairs and maximize for negative pairs.
 
