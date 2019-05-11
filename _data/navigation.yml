@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Blogs"
-    url: /Blogs/
+    url: /blogs/
   - title: "About Me"
-    url: /About%20Me/
+    url: /about%20me/
   - title: "Links"
     url: /links/
   - title: "GSoc"
