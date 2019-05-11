@@ -6,3 +6,5 @@ main:
     url: /About%20Me/
   - title: "Links"
     url: /links/
+  - title: "GSoc"
+    url: /GSoc/
