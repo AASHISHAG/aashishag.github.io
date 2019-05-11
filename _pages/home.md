@@ -24,11 +24,7 @@ Find me on GitHub: [aashishag](http://github.com/aashishag)
 
 
 ### Stuff I like to play with:
-- Data Analysis and Visualizaion: Excel, Numpy, Pandas, Matplotlib, Seaborn
-- Machine Learning: Scikit-learn, SciPy 
-- Deep Learning: TensorFlow, Keras, PyTorch
-- Natural Language Processing: NLTK, SpaCy, Rasa Stack (open source conversational AI)
-- Computer Vision: OpenCV, Skimage
-- Database: SQL, PostgreSQL
-- Version Control: Git, GitHub
+- Speech Recognition
+- Deep Learning: TensorFlow, Keras
+- Natural Language Processing: NLTK, SpaCy
 - Other: Linux, Shell Scripting, Flask (App hosting, API)
