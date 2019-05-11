@@ -1,10 +1,8 @@
 # main links
 main:
-  - title: "Blogs"
-    url: /blogs/
   - title: "About Me"
     url: /about%20me/
-  - title: "Links"
-    url: /links/
-  - title: "GSoc"
-    url: /GSoc/
+  - title: "Resume"
+    url: /resume/
+  - title: "Blog"
+    url: /blog/
