@@ -100,11 +100,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ajinkya Takawale"
+  name             : "Aashish Agarwal"
   avatar           : "/others/profile_pic.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Machine Learning and A.I"
   location         : "India"
-  email            : "ajinkya.takawale97@gmail.com"
+  email            : "agarwalaashish20@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
