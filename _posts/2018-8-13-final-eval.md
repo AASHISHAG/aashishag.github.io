@@ -1,10 +1,10 @@
 ---
-title:  "GSoC 2018 - Audio-Visual Speech Recognition using Deep Learning"
-date:   2018-8-13
+title:  "GSoC 2019 - Automatic Speech Recognition (German)"
+date:   2018-5-27
 layout: single
 author_profile: true
 comments: true
-tags: [GSoC, AVSR]
+tags: [GSoC, ASR]
 category: GSoC
 toc: true
 toc_label: "Contents"
@@ -13,7 +13,7 @@ toc_icon: "heart"
 
 ![](/others/GSOC.png)
 
-Link to [Repository of Code](https://github.com/ajinkyaT/Lip_Reading_in_the_Wild_AVSR)
+Link to [Repository of Code](https://github.com/AASHISHAG/asr-german)
 
 ### Describe my work briefly
 
