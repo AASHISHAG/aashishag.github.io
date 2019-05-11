@@ -13,14 +13,14 @@ header:
 ---
 
 
-I am a final year undergraduate student at IIT Kharagpur fascinated by Machine Learning and A.I applications. I like to contribute to open source projects related to deep learning, and participate in machine learning competitions. let's connect and contribute to open-source world of AI :sunglasses:
+A master's student, pursuing Computer Engineering (Data Science). I am fascinated by Deep Learning and other AI applications. I like to contribute to open source projects. Let's connect and contribute to open-source world of AI :sunglasses:
 
-Find me on GitHub: [ajinkyaT](http://github.com/ajinkyaT)
+Find me on GitHub: [aashishag](http://github.com/aashishag)
 
 
 ### Education:
-- **Indian Institute of Technology Kharagpur** (2015 - 2019)   
-  B.Tech Mechanical Engineering
+- **University of Duisburg-Essen** (2018 - 2020)   
+  Masters Computer Engineering
 
 
 ### Stuff I like to play with:
