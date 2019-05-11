@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Aashish Agarwal"
-  avatar           : "/others/profile_pic.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/others/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "AI Enthusiast"
   location         : "Germany"
   email            : "agarwalaashish20@gmail.com"
