@@ -29,7 +29,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
-    shortname            : "ajinkyat" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : # "shortname" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Aashish Agarwal"
   avatar           : "/others/profile_pic.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Machine Learning and A.I"
+  bio              : "AI Enthusiast"
   location         : "Germany"
   email            : "agarwalaashish20@gmail.com"
   uri              :
@@ -129,7 +129,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : 
 
 
 # Reading Files
