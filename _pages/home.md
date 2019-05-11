@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "About Me"
-permalink: /About%20Me/
+title: "Home"
+permalink: /home/
 comments: false
 author_profile: true
 excerpt: "Eagerly waiting for A.I revolution to happen!"
