@@ -23,7 +23,7 @@ This all started with the installation of Kaldi and the requisites. Kaldi instal
 
 ### Data Pre-Processing and MFCC Generation
 
-A pre-processing module needs to be scripted to achieve the goal. Further, a manifest for the audio and transcripts needs to be created and data need to be structured to feed them to Kaldi MFCC feature extraction module. I utilised a sevral scripts from Kaldi Wall Street Journal (WSJ), Tedlium and Tuda-De project.
+A pre-processing module needs to be scripted to achieve the goal. Further, a manifest for the audio and transcripts needs to be created and data need to be structured to feed them to Kaldi MFCC feature extraction module. It's necessary to arrange the data according to Kaldi's format.
 
 ``` bash
 (env) agarwal@:~/backup/kaldi-trunk/egs/recipe_v1/data/train$ tree
@@ -39,6 +39,9 @@ A pre-processing module needs to be scripted to achieve the goal. Further, a man
 ├── utt2spk
 └── wav.scp
 ```
+
+I utilised a sevral scripts from Kaldi Wall Street Journal (WSJ), Tedlium and Tuda-De project.
+
 
 ``` bash
 (env) agarwal@:~/backup/kaldi-trunk/egs/recipe_v1/exp/make_mfcc/dev$ tree
