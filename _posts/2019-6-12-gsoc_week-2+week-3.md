@@ -21,7 +21,9 @@ I am happy to update on my Week 2 and Week 3 progress. These two weeks were cruc
 
 This all started with the installation of Kaldi and the requisites. Kaldi installation which looks seemingly easy; proved to be quite challenging. The documentation is not straight forward. I witnessed many errors. I resolved a few errors by referring, and for a few, I had to re-install Kaldi all together, which every time took 4-5 hours to install depending on the server configurations. I managed to document all the necessary steps on [GitHub](https://github.com/AASHISHAG/asr-german).
 
-### Data Pre-Processing
+### Data Pre-Processing and MFCC Generation
+
+A pre-processing module needs to be scripted to achieve the goal. Further, a manifest for the audio and transcripts needs to be created and data need to be structured to feed them to Kaldi MFCC feature extraction module. I utilised a sevral scripts from Kaldi Wall Street Journal (WSJ), Tedlium and Tuda-De project.
 
 ``` bash
 (env) agarwal@:~/backup/kaldi-trunk/egs/recipe_v1/data/train$ tree
