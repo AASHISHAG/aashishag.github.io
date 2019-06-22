@@ -47,7 +47,7 @@ I utilized several scripts from Kaldi Wall Street Journal (WSJ), Tedlium, and Tu
 Feature extraction is the most critical step in any ASR. The scripts from Kaldi can be used to compute the speech data as standard 13-dimensional Mel-Frequency Cepstral Coefficients (MFCC) features. I managed to use the scripts from the Wall Street Journal Project (WSJ)
 
 ``` bash
-steps/compute_cmvn_stats.sh data/$train_data exp/make_mfcc/$x $mfccdir 
+steps/compute_cmvn_stats.sh data/$dev exp/make_mfcc/$x $mfccdir 
 ```
 
 Output:
