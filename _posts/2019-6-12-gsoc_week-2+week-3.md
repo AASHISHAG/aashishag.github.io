@@ -15,6 +15,9 @@ Link to [Repository of Code](https://github.com/AASHISHAG/asr-german)
 
 ### Describe my work briefly
 
+## Installing Kaldi
+
+
 I am progressing well with the project as per the proposal. I adapted scripts to clean and format the open source datasets required for Kaldi. 
 
 Very soon, I will start with the Language Modelling and Lexicon generation. 

@@ -1,6 +1,6 @@
 ---
-title:  "GSoC 2019 - Week 2 + Week 3 (ASR - German)"
-date:   2019-6-12
+title:  "Week 4 + Week 5 (ASR - German)"
+date:   2019-6-26
 layout: single
 author_profile: true
 comments: true
