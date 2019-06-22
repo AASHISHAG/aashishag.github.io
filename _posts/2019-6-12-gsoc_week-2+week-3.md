@@ -42,7 +42,7 @@ A pre-processing module needs to be scripted to achieve the goal. Further, a man
 
 I utilised a sevral scripts from Kaldi Wall Street Journal (WSJ), Tedlium and Tuda-De project.
 
-###MFCC Generation
+### MFCC Generation
 
 ``` bash
 (env) agarwal@:~/backup/kaldi-trunk/egs/recipe_v1/exp/make_mfcc/dev$ tree
