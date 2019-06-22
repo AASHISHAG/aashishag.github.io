@@ -34,9 +34,17 @@ I am happy to update on my Week 2 and Week 3 progress. These two weeks were cruc
 └── wav.scp
 ```
 
+``` bash
+(env) agarwal@:~/backup/kaldi-trunk/egs/recipe_v1/exp/make_mfcc/dev$ tree
+.
+├── cmvn_dev.log
+├── make_mfcc_dev.1.log
+├── make_mfcc_dev.2.log
+├── make_mfcc_dev.3.log
+├── make_mfcc_dev.4.log
+└── make_mfcc_dev.5.log
 
-
-
+```
 
 Week 4 and Week 5 is the evaluation period. I will take feedback from mentors and bring improvements in my task. The first task would be to build the German phoneme dictionary. The data is not readily available. I approach to use the scripts provided by the researchers at Hamburg University, Germany. The technique needs to be verified and some bottlenecks are expected.
 
