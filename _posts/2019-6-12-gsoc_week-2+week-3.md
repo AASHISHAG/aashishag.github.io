@@ -19,7 +19,7 @@ I am happy to update on my Week 2 and Week 3 progress. These two weeks were cruc
 
 ### Installing Kaldi ...
 
-'
+``` bash
 (env) agarwal@:~/backup/kaldi-trunk/egs/recipe_v1/data/train$ tree
 .
 ├── cmvn.scp
@@ -32,7 +32,7 @@ I am happy to update on my Week 2 and Week 3 progress. These two weeks were cruc
 ├── utt2num_frames
 ├── utt2spk
 └── wav.scp
-'
+``` bash
 
 
 
