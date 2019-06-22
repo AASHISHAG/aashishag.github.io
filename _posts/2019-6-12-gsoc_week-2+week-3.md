@@ -15,11 +15,11 @@ Link to [Repository of Code](https://github.com/AASHISHAG/asr-german)
 
 ### Describe my work briefly
 
-I am happy to update on my Week 2 and Week 3 progress. These two weeks were crucial, I was working on data pre-processing and computing standard 13-dimensional Mel-Frequency Cepstral Coefficients (MFCC) features of the speech data.
+I am happy to update on my Week 2 and Week 3 progress. These two weeks were crucial. I was working on data pre-processing, and computing standard 13-dimensional Mel-Frequency Cepstral Coefficients (MFCC) features of the speech data.
 
 ### Kaldi Installation
 
-This all started with the installation of Kaldi and the requisities. Kaldi installation which looks seemingly easy, proved to be quite challenging. The documentation is not staright foward. I witnessed many errors. I re-solved a few errors by referrig stackoverflow and for a few I had to re-install Kaldi all together, which everytime took 4-5 hours to install depeneding on the server configurations. I managed to document all the necessary steps on [GitHub](https://github.com/AASHISHAG/asr-german).
+This all started with the installation of Kaldi and the requisites. Kaldi installation which looks seemingly easy; proved to be quite challenging. The documentation is not straight forward. I witnessed many errors. I resolved a few errors by referring, and for a few, I had to re-install Kaldi all together, which every time took 4-5 hours to install depending on the server configurations. I managed to document all the necessary steps on [GitHub](https://github.com/AASHISHAG/asr-german).
 
 ### Data Pre-Processing
 
@@ -50,7 +50,7 @@ This all started with the installation of Kaldi and the requisities. Kaldi insta
 
 ```
 
-Week 4 and Week 5 is the evaluation period. I will take feedback from mentors and bring improvements in my task. The first task would be to build the German phoneme dictionary. The data is not readily available. I approach to use the scripts provided by the researchers at Hamburg University, Germany. The technique needs to be verified and some bottlenecks are expected.
+Week 4 and Week 5 is the evaluation period. I will take feedback from mentors and bring improvements to my task. The first task would be to build the German phoneme dictionary. The data is not readily available. I approach to use the scripts provided by the researchers at Hamburg University, Germany. The technique needs to be verified, and some bottlenecks are expected.
 
 I will keep you posted about my progress!
 
