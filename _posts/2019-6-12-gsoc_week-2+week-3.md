@@ -17,7 +17,9 @@ Link to [Repository of Code](https://github.com/AASHISHAG/asr-german)
 
 I am happy to update on my Week 2 and Week 3 progress. These two weeks were crucial, I was working on data pre-processing and computing standard 13-dimensional Mel-Frequency Cepstral Coefficients (MFCC) features of the speech data.
 
-'''
+### Installing Kaldi ...
+
+'
 (env) agarwal@:~/backup/kaldi-trunk/egs/recipe_v1/data/train$ tree
 .
 ├── cmvn.scp
@@ -30,9 +32,9 @@ I am happy to update on my Week 2 and Week 3 progress. These two weeks were cruc
 ├── utt2num_frames
 ├── utt2spk
 └── wav.scp
-'''
+'
 
-### Installing Kaldi
+
 
 
 
