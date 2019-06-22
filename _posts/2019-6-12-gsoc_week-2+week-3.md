@@ -1,5 +1,5 @@
 ---
-title:  "GSoC 2019 - Week 2 + Week 3 (ASR - German)"
+title:  "Week 2 + Week 3 (ASR - German)"
 date:   2019-6-12
 layout: single
 author_profile: true
