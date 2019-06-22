@@ -15,9 +15,12 @@ Link to [Repository of Code](https://github.com/AASHISHAG/asr-german)
 
 ### Describe my work briefly
 
-I am progressing well with the project as per the proposal. I adapted scripts to clean and format the open source datasets required for Kaldi. 
+I am happy to update on my Week 4 and Week 5 progress. I am progressing well with the project as per the proposal. This would be the evaluation period. I am totally excited.
 
-Very soon, I will start with the Language Modelling and Lexicon generation. 
+This period was full of unpredictable challenges. I witnessed several issues. 
+
+
+
 
 I will keep you posted about my progress. 
 
