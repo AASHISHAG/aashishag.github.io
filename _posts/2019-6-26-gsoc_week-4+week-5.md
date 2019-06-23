@@ -17,9 +17,10 @@ Link to [Repository of Code](https://github.com/AASHISHAG/asr-german)
 
 I am happy to update on my Week 4 and Week 5 progress. I am progressing well with the project as per the proposal. This would be the evaluation period. I am totally excited.
 
-This period was full of unpredictable challenges. I witnessed several issues. 
+This period was full of unpredictable challenges. I witnessed several issues, not just with configurations but also with Kaldi. I have opened a BUG at the Kaldi forum [google group](https://groups.google.com/forum/#!forum/kaldi-help). The 
 
-
+![](
+/others/kaldi-help.png)
 
 
 I will keep you posted about my progress. 
