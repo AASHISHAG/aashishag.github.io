@@ -21,6 +21,26 @@ I am happy to update on my Week 4 and Week 5 progress. I am progressing well wit
 /others/language-phoneme-model.png)
 
 ### Language Modeling
+A language model (LM) is a probability distribution over sequences of words, P(W), which may be decomposed as:
+
+``` txt
+P(W) = P(w1, w2, ..., wn) = P(w1)P(w2|w1)· · · P(wn|w1, . . . , wn−1)
+```
+
+And each of these probabilities could be estimated using maximum likelihood methods by checking counts of word sequences c(w1, . . . , wn) in the training corpus.
+
+``` txt
+P(wn|w1, . . . , wn−1) = c(w1, w2, . . . , wn)/c(w1, w2, ..., wn−1)
+```
+
+Due to sparsity of training data, typical language modles for ASR make a k-order Markov assumption, i.e.
+
+``` txt
+P(wn|w1, . . . , wn−1) = P(wn|wn−k, . . . , wn−1)
+```
+
+In real ASR applications, k = 2 and k = 3 are the most common settings, and corresponding LMs are called “bigram model” and “trigram model” respectively.
+
 For language modeling, I used "German speech data corpus". The corpus is of approximately 8 million German sentences. MaryTTS is used to normalize the text to a form that is close to how a reader would speak the sentence, e.g. any numbers and dates have been converted into a canonical text form and any punctuation has been discarded. The corpus is appropriately filtered so that sentences from the development and test speech corpus are not included in the LM.
 
 ### Phoneme Dictionary
