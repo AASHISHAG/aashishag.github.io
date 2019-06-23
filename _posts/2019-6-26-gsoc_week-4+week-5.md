@@ -25,19 +25,19 @@ I spent this period working on Language and Phoneme Modeling.
 ### Language Modeling
 A language model (LM) is a probability distribution over sequences of words, P(W), which may be decomposed as:
 
-``` txt
+``` bash
 P(W) = P(w1, w2, ..., wn) = P(w1)P(w2|w1)· · · P(wn|w1, . . . , wn−1)
 ```
 
-And each of these probabilities could be estimated using maximum likelihood methods by checking counts of word sequences ``` txt c(w1, . . . , wn)``` in the training corpus.
+And each of these probabilities could be estimated using maximum likelihood methods by checking counts of word sequences ```txt c(w1, . . . , wn)``` in the training corpus.
 
 ``` bash
-P(wn|w1, . . . , wn−1) = c(w1, w2, . . . , wn)/c(w1, w2, ..., wn−1)
+P(wn|w1, . . . , wn−1)=c(w1, w2, . . . , wn)/c(w1, w2, ..., wn−1)
 ```
 
 Due to sparsity of training data, typical language modles for ASR make a k-order Markov assumption, i.e.
 
-``` txt
+``` bash
 P(wn|w1, . . . , wn−1) = P(wn|wn−k, . . . , wn−1)
 ```
 
