@@ -17,27 +17,11 @@ Link to [Repository of Code](https://github.com/AASHISHAG/asr-german)
 
 I am happy to update on my Week 4 and Week 5 progress. I am progressing well with the project as per the proposal. This would be the evaluation period. I am totally excited.
 
-This period was full of unpredictable challenges. I witnessed several issues, not just with configurations but also with Kaldi. Since, we are working with German dataset the encoding has to be changed from ASCII to UTF-8, but several Kaldi scripts still supports ASCII format. I have opened a BUG at the Kaldi forum [google group](https://groups.google.com/forum/#!forum/kaldi-help). The Kaldi's developer Dan Povey merged a PR to resolve the issue but later other scripts started giving errors. I am debugging to resolve the issue.
+### Language Modeling
+For language modeling, we will use "German speech data corpus" [2]. The corpus is of approximately 8 million German sentences [4]. MaryTTS is used to normalize the text to a form that is close to how a reader would speak the sentence, e.g. any numbers and dates have been converted into a canonical text form and any punctuation has been discarded. The corpus is appropriately filtered so that sentences from the development and test speech corpus are not included in the LM.
 
-![](
-/others/kaldi-help.PNG)
-
-``` bash
-# Started at Thu Jun 13 05:11:24 CEST 2019
-#
-Traceback (most recent call last):
-  File "steps/cleanup/internal/taint_ctm_edits.py", line 247, in <module>
-    ProcessData()
-  File "steps/cleanup/internal/taint_ctm_edits.py", line 154, in ProcessData
-    first_line = f_in.readline()
-  File "/media/data/agarwal/python-environments/env3.5.2/lib/python3.5/encodings/ascii.py", line 26, in decode
-    return codecs.ascii_decode(input, self.errors)[0]
-UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 303: ordinal not in range(128)
-# Accounting: time=1 threads=1
-```
-
-
-I will keep you posted about my progress. 
+### Phoneme Dictionary
+Large German phoneme dictionary has strict licensing issues. The researchers at the University of Hamburg, Germany have written some scripts to combine several small phoneme dictionaries. The final dictionary covers 44.8k unique German words with 70k total entries, with alternate pronunciations for some of the more common words. The pronunciation dictionary is of reasonable size for large-vocabulary speech recognition I will keep you posted about my progress. 
 
 ### Others
 
