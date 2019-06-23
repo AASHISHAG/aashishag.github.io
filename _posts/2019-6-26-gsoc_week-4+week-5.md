@@ -21,7 +21,9 @@ I am happy to update on my Week 4 and Week 5 progress. I am progressing well wit
 For language modeling, we will use "German speech data corpus". The corpus is of approximately 8 million German sentences. MaryTTS is used to normalize the text to a form that is close to how a reader would speak the sentence, e.g. any numbers and dates have been converted into a canonical text form and any punctuation has been discarded. The corpus is appropriately filtered so that sentences from the development and test speech corpus are not included in the LM.
 
 ### Phoneme Dictionary
-Large German phoneme dictionary has strict licensing issues. The researchers at the University of Hamburg, Germany have written some scripts to combine several small phoneme dictionaries. The final dictionary covers 44.8k unique German words with 70k total entries, with alternate pronunciations for some of the more common words. The pronunciation dictionary is of reasonable size for large-vocabulary speech recognition I will keep you posted about my progress. 
+Large German phoneme dictionary has strict licensing issues. The researchers at the University of Hamburg, Germany have written some scripts to combine several small phoneme dictionaries. The final dictionary covers 44.8k unique German words with 70k total entries, with alternate pronunciations for some of the more common words. The pronunciation dictionary is of reasonable size for large-vocabulary speech recognition.
+
+I will keep you posted about my progress!
 
 ### Others
 
