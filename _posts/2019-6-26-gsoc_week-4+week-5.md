@@ -17,6 +17,8 @@ Link to [Repository of Code](https://github.com/AASHISHAG/asr-german)
 
 I am happy to update on my Week 4 and Week 5 progress. I am progressing well with the project as per the proposal. This would be the evaluation period. I am totally excited.
 
+I spent this period working on Language and Phoneme Modeling.
+
 ![](
 /others/language-phoneme-model.png)
 
@@ -27,9 +29,9 @@ A language model (LM) is a probability distribution over sequences of words, P(W
 P(W) = P(w1, w2, ..., wn) = P(w1)P(w2|w1)· · · P(wn|w1, . . . , wn−1)
 ```
 
-And each of these probabilities could be estimated using maximum likelihood methods by checking counts of word sequences c(w1, . . . , wn) in the training corpus.
+And each of these probabilities could be estimated using maximum likelihood methods by checking counts of word sequences ``` txt c(w1, . . . , wn)``` in the training corpus.
 
-``` txt
+``` bash
 P(wn|w1, . . . , wn−1) = c(w1, w2, . . . , wn)/c(w1, w2, ..., wn−1)
 ```
 
