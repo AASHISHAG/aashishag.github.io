@@ -1,4 +1,4 @@
-I am happy to update on my Week 6 and Week 7 progress. I am progressing well with the project as per the proposal. I spent this period working on Acoustic Modelling.---
+---
 title:  "Week 8 + Week 9 (ASR - German)"
 date:   2019-7-24
 layout: single
