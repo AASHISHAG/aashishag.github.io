@@ -25,11 +25,11 @@ The acoustic models are created by training the models on acoustic features from
 
 In order to train an end-to-end ASR pipeline, we need:
 
-1. Monophone models
+1.Monophone models
 
-A monophone model is an acoustic model that does not include any contextual information about the preceding or following phone. It is used as a building block for the triphone models, which do make use of contextual information.
+A monophone model is an acoustic model that does not include any contextual information about the preceding or following phone. It is used as a building block for the triphone models, which make use of contextual information.
 
-2. Aligning audio with the acoustic models
+2.Aligning audio with the acoustic models
 
 The parameters of the acoustic model are estimated in acoustic training steps; however, the process can be better optimized by cycling through training and alignment phases. This is also known as Viterbi training (related, but more computationally expensive procedures include the Forward-Backward algorithm and Expectation Maximization). By aligning the audio to the reference transcript with the most current acoustic model, additional training algorithms can then use this output to improve or refine the parameters of the model. Therefore, each training step will be followed by an alignment step where the audio and text can be realigned.
 
