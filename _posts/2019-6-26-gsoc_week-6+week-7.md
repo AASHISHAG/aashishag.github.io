@@ -23,7 +23,7 @@ Acoustic models are the statistical representations of a phoneme’s acoustic in
 
 The acoustic models are created by training the models on acoustic features from labeled data, i.e. the transcribed speech corpus. Kaldi provides tremendous flexibility and power in training own acoustic models.
 
-In order to train acoustic model we need:
+In order to train an end-to-end ASR pipeline, we need:
 
 1. Monophone models
 
