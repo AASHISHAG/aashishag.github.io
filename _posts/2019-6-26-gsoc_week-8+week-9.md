@@ -33,7 +33,7 @@ To work with German dataset, care has to be taken that the scripts are UTF-8 com
 
 I would like to thanks the open community of developers and [Kaldi help group](https://groups.google.com/forum/#!forum/kaldi-help) for the guidance. 
 
-Now, I have created an end-to-end German ASR pipeline. Next week I would keep the model on training. Keeping my fingers crossed.
+Now, I have created an end-to-end German ASR pipeline. Next week I would keep the model on training. Also, this is the second-evaluation week. Keeping my fingers crossed.
 
 I will keep you posted about my progress!
 
