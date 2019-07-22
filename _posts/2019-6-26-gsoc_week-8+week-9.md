@@ -27,7 +27,7 @@ Automatic Speech Recognition pipeline has four significant steps:
 The following is depicted in the image below:
 
 ![](
-/others/speech-recognition-pipeline.png)
+/others/speech-recognition-pipeline-2.png)
 
 To work with German dataset, care has to be taken that the scripts are UTF-8 compatible. While most of the example scripts from Kaldi supports UTF-8, there are several that are still in ASCII format. When working on integrating all the above modules, the code produced a lot of issues. Since the bugs were logged on a high level, they were difficult to debug. Also, overtime Kaldi is adapting Python 3, but still many scripts support only Python 2. This was challenging, while I had implemented the pipeline in Python 3. Apart from them, there were other specific data issues. 
 
