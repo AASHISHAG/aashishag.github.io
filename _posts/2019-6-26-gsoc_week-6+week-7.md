@@ -42,6 +42,7 @@ At this point, we’ll also need to deal with the fact that not all triphone uni
 4.Re-aligning Audio with the Acoustic model
 
 5.Neural Models
+
 Finally, DNN model are implemeneted to train the model on the aligned data.
 
 This was a brief introduction of the work I did during this period. Next step is to integrate all these pieces together.
