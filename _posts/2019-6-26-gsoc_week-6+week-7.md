@@ -25,25 +25,26 @@ The acoustic models are created by training the models on acoustic features from
 
 In order to train an end-to-end ASR pipeline, we need:
 
-1.Monophone models
+1.Monophone Models
 
 A monophone model is an acoustic model that does not include any contextual information about the preceding or following phone. It is used as a building block for the triphone models, which make use of contextual information.
 
-2.Aligning audio with the acoustic models
+2.Aligning Audio with the Acoustic Model
 
-The parameters of the acoustic model are estimated in acoustic training steps; however, the process can be better optimized by cycling through training and alignment phases. This is also known as Viterbi training (related, but more computationally expensive procedures include the Forward-Backward algorithm and Expectation Maximization). By aligning the audio to the reference transcript with the most current acoustic model, additional training algorithms can then use this output to improve or refine the parameters of the model. Therefore, each training step will be followed by an alignment step where the audio and text can be realigned.
+The parameters of the acoustic model are estimated in acoustic training steps; however, the process can be better optimized by cycling through training and alignment phases. By aligning the audio to the reference transcript with the most current  acoustic model, additional training algorithms can then use this output to improve or refine the parameters of the model. Therefore, each training step will be followed by an alignment step where the audio and text can be realigned.
 
-3. Triphone models
+3.Triphone Model
 
 While monophone models simply represent the acoustic parameters of a single phoneme, we know that phonemes will vary considerably depending on their particular context. The triphone models represent a phoneme variant in the context of two other (left and right) phonemes.
 
-At this point, we’ll also need to deal with the fact that not all triphone units are present (or will ever be present) in the dataset. There are (# of phonemes)3 possible triphone models, but only a subset of those will actually occur in the data. Furthermore, the unit must also occur multiple times in the data to gather sufficient statistics for the data. A phonetic decision tree groups these triphones into a smaller amount of acoustically distinct units, thereby reducing the number of parameters and making the problem computationally feasible.
+At this point, we’ll also need to deal with the fact that not all triphone units are present (or will ever be present) in the dataset. There are 3 possible triphone models, but only a subset of those will actually occur in the data. Furthermore, the unit must also occur multiple times in the data to gather sufficient statistics for the data. A phonetic decision tree groups these triphones into a smaller amount of acoustically distinct units, thereby reducing the number of parameters and making the problem computationally feasible.
 
-4. Re-aligning audio with the acoustic models & re-train triphone models
+4.Re-aligning Audio with the Acoustic model
 
-5. Neural Models
+5.Neural Models
+Finally, DNN model are implemeneted to train the model on the aligned data.
 
-The Acoustic modelling in Kaldi is mono+tri+DNN. (Need to update)
+This was a brief introduction of the work I did during this period. Next step is to integrate all these pieces together.
 
 I will keep you posted about my progress!
 
