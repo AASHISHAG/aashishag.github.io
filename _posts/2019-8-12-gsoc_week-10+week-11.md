@@ -26,75 +26,91 @@ Results
   <source src="/others/de_1.wav" type="audio/wav">
 </audio>
 
-Gerrit erinnerte sich daran dass er einst einen Eid geschworen hatte
-
-Garrett erinnerte sich daran dass er einst einen Eid geschworen hatte
+``` bash
+$ Gerrit erinnerte sich daran dass er einst einen Eid geschworen hatte
+$ Garrett erinnerte sich daran dass er einst einen Eid geschworen hatte
+```
 
 <audio controls>
   <source src="/others/de_2.wav" type="audio/wav">
 </audio>
 
-Wenn man schnell fährt ist man von Emden nach Landshut nicht lange unterwegs
-
-Weil man schnell fährt ist man von Emden nach Landshut nicht lange unterwegs
+``` bash
+$ Wenn man schnell fährt ist man von Emden nach Landshut nicht lange unterwegs
+$ Weil man schnell fährt ist man von Emden nach Landshut nicht lange unterwegs
+```
 
 <audio controls>
   <source src="/others/de_3.wav" type="audio/wav">
 </audio>
 
-Valentin hat das Handtuch geworfen
-Valentin hat das Handtuch geworfen
+``` bash
+$ Valentin hat das Handtuch geworfen
+$ Valentin hat das Handtuch geworfen
+```
 
 <audio controls>
   <source src="/others/de_4.wav" type="audio/wav">
 </audio>
 
-Auf das was jetzt kommt habe ich nämlich absolut keinen Bock
-Auf das was jetzt kommt habe ich nämlich absolut keinen Bock
+``` bash
+$ Auf das was jetzt kommt habe ich nämlich absolut keinen Bock
+$ Auf das was jetzt kommt habe ich nämlich absolut keinen Bock
+```
 
 <audio controls>
   <source src="/others/de_5.wav" type="audio/wav">
 </audio>
 
-Ich könnte eine Mitfahrgelegenheit nach Schweinfurt anbieten
-Ich könnte eine Mitfahrgelegenheit nach Schweinfurt anbieten
+``` bash
+$ Ich könnte eine Mitfahrgelegenheit nach Schweinfurt anbieten
+$ Ich könnte eine Mitfahrgelegenheit nach Schweinfurt anbieten
+```
 
 <audio controls>
   <source src="/others/de_6.wav" type="audio/wav">
 </audio>
 
-Man sollte den Länderfinanzausgleich durch einen Bundesligasoli ersetzen
-Man sollte den Länderfinanzausgleich durch ein Bundesliga Soli ersetzen
+``` bash
+$ Man sollte den Länderfinanzausgleich durch einen Bundesligasoli ersetzen
+$ Man sollte den Länderfinanzausgleich durch ein Bundesliga Soli ersetzen
+```
 
 <audio controls>
   <source src="/others/de_7.wav" type="audio/wav">
 </audio>
 
-Von Salzburg ist es doch nicht weit bis zum Chiemsee
-Von Salzburg ist es doch nicht weit Bistum Chiemsee
+``` bash
+$ Von Salzburg ist es doch nicht weit bis zum Chiemsee
+$ Von Salzburg ist es doch nicht weit Bistum Chiemsee
+```
 
 <audio controls>
   <source src="/others/de_8.wav" type="audio/wav">
 </audio>
 
-Selbst für den erfahrensten Chirurgen ist der Tumor eine knifflige Herausforderung
-Selbst für den erfahrensten Chirurgen ist der Tumor eine knifflige raus Federung
+``` bash
+$ Selbst für den erfahrensten Chirurgen ist der Tumor eine knifflige Herausforderung
+$ Selbst für den erfahrensten Chirurgen ist der Tumor eine knifflige raus Federung
+```
 
 <audio controls>
   <source src="/others/de_9.wav" type="audio/wav">
 </audio>
+
 ``` bash
-Folgende Lektüre kann ich ihnen zum Thema Kognitionspsychologie empfehlen
-Folgende Lektüre kann ich ihn zum Thema Kognitionspsychologie empfehlen
+$ Folgende Lektüre kann ich ihnen zum Thema Kognitionspsychologie empfehlen
+$ Folgende Lektüre kann ich ihn zum Thema Kognitionspsychologie empfehlen
 ``` 
 
 <audio controls>
   <source src="/others/de_10.wav" type="audio/wav">
 </audio>
 
-Warum werden da keine strafrechtlichen Konsequenzen gezogen
-Warum werden da keine strafrechtlichen Konsequenzen gezogen
-
+``` bash
+$ Warum werden da keine strafrechtlichen Konsequenzen gezogen
+$ Warum werden da keine strafrechtlichen Konsequenzen gezogen
+```
 
 CASE HPC
 
