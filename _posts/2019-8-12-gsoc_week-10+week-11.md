@@ -17,10 +17,10 @@ Link to [Repository of Code](https://github.com/AASHISHAG/asr-german)
 
 I am happy to update on my Week 10 and Week 11 progress. This period was the most exciting period. I spent time training and evaluatig the model and finally running it on CASE HPC.
 
-Training
-This was the most crucial part. I arranged all the modules namely, MFCC Features, Acoustic Model and Language Model and tested the sequence on a smaller dataset, before putting the entire training the model on all the data. 
+### Training
+This was the most crucial part. I arranged all the modules namely, MFCC Features, Acoustic Model and Language Model and tested the sequence on a smaller dataset, before putting the model on training on the complete data. 
 
-Results
+### Results
 
 <audio controls>
   <source src="/others/de_1.wav" type="audio/wav">
@@ -112,7 +112,7 @@ $ Warum werden da keine strafrechtlichen Konsequenzen gezogen
 $ Warum werden da keine strafrechtlichen Konsequenzen gezogen
 ```
 
-CASE HPC
+### CASE HPC
 
 
 ### Others
