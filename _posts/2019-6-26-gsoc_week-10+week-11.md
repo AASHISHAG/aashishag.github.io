@@ -17,6 +17,11 @@ Link to [Repository of Code](https://github.com/AASHISHAG/asr-german)
 
 I am happy to update on my Week 10 and Week 11 progress. This period was the most exciting period. I spent time training the model. Since, training was a little time consuming, I also utilised this time to prepare for my exams.
 
+It’s week 8 of my GSoC project with Red Hen Lab. As mentioned in an earlier post, running the system on Case HPC is one of the main goals of this GSoC project. I managed to install Kaldi earlier on Case HPC using a Singularity image. This week, I prepared the data from GALE Phase 2 Arabic Broadcast Conversation and started the training process on Case HPC.
+
+![](
+/others/de1-01.wav)
+
 New to update and provide results ......
 
 I will keep you posted about my progress!
