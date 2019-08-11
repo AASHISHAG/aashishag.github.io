@@ -15,7 +15,7 @@ Link to [Repository of Code](https://github.com/AASHISHAG/asr-german)
 
 ### Describe my work briefly
 
-Still upadting ..... 
+Still updating ..... 
 
 I am happy to update on my Week 10 and Week 11 progress. This period was the most exciting period. I spent time training and evaluatig the model and finally running it on CASE HPC.
 
