@@ -27,6 +27,7 @@ Results
 </audio>
 
 Gerrit erinnerte sich daran dass er einst einen Eid geschworen hatte
+
 Garrett erinnerte sich daran dass er einst einen Eid geschworen hatte
 
 <audio controls>
@@ -34,6 +35,7 @@ Garrett erinnerte sich daran dass er einst einen Eid geschworen hatte
 </audio>
 
 Wenn man schnell fährt ist man von Emden nach Landshut nicht lange unterwegs
+
 Weil man schnell fährt ist man von Emden nach Landshut nicht lange unterwegs
 
 <audio controls>
@@ -81,9 +83,10 @@ Selbst für den erfahrensten Chirurgen ist der Tumor eine knifflige raus Federun
 <audio controls>
   <source src="/others/de_9.wav" type="audio/wav">
 </audio>
-
+``` bash
 Folgende Lektüre kann ich ihnen zum Thema Kognitionspsychologie empfehlen
 Folgende Lektüre kann ich ihn zum Thema Kognitionspsychologie empfehlen
+``` 
 
 <audio controls>
   <source src="/others/de_10.wav" type="audio/wav">
