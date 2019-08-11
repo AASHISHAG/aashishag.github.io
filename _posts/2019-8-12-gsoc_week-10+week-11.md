@@ -15,13 +15,14 @@ Link to [Repository of Code](https://github.com/AASHISHAG/asr-german)
 
 ### Describe my work briefly
 
+Still upadting ..... 
+
 I am happy to update on my Week 10 and Week 11 progress. This period was the most exciting period. I spent time training and evaluatig the model and finally running it on CASE HPC.
 
 ### Training
 This was the most crucial part. I arranged all the modules namely, MFCC Features, Acoustic Model and Language Model and tested the sequence on a smaller dataset, before putting the model on training on the complete data. The training took a long time to complete and finally it was 100%.
 
 ``` bash
-
 [steps/nnet3/chain/train.py:519 - train - INFO ] Iter: 5472/5483   Jobs: 1   Epoch: 3.99/4.0 (99.8% complete)   lr: 0.000101   shrink: 0.99799
 [steps/nnet3/chain/train.py:519 - train - INFO ] Iter: 5473/5483   Jobs: 1   Epoch: 3.99/4.0 (99.8% complete)   lr: 0.000100   shrink: 0.99799
 [steps/nnet3/chain/train.py:519 - train - INFO ] Iter: 5474/5483   Jobs: 1   Epoch: 3.99/4.0 (99.8% complete)   lr: 0.000100   shrink: 0.99799
