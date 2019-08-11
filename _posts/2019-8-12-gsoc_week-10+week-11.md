@@ -18,7 +18,7 @@ Link to [Repository of Code](https://github.com/AASHISHAG/asr-german)
 I am happy to update on my Week 10 and Week 11 progress. This period was the most exciting period. I spent time training and evaluatig the model and finally running it on CASE HPC.
 
 ### Training
-This was the most crucial part. I arranged all the modules namely, MFCC Features, Acoustic Model and Language Model and tested the sequence on a smaller dataset, before putting the model on training on the complete data. The training took a long time to complete and finally it was 100%
+This was the most crucial part. I arranged all the modules namely, MFCC Features, Acoustic Model and Language Model and tested the sequence on a smaller dataset, before putting the model on training on the complete data. The training took a long time to complete and finally it was 100%.
 
 ``` bash
 ...
