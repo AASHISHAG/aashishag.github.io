@@ -19,29 +19,14 @@ I am happy to update on my Week 10 and Week 11 progress. This period was the mos
 
 It’s week 8 of my GSoC project with Red Hen Lab. As mentioned in an earlier post, running the system on Case HPC is one of the main goals of this GSoC project. I managed to install Kaldi earlier on Case HPC using a Singularity image. This week, I prepared the data from GALE Phase 2 Arabic Broadcast Conversation and started the training process on Case HPC.
 
-![](
-/others/de1-01.wav)
-
 <audio controls>
-  <source src="myAudio.mp3" type="audio/mp3">
+  <source src="/others/de1-01.wav" type="audio/mp3">
 </audio>
 
-# Podcast
-listen_time: true
-episode_cover: /assets/podcasts/cover-stemmer.png
-subtitle: "- ansat 39 år med ansvar for kursuscenter og rengøring"
-description: "Interview med Marie Lisby, som startede i rengøringen i 1963 og sluttede med ansvaret for kursuscenteret i 2003."
-image: /assets/podcasts/cover-stemmer.jpg
-media: # requires a mp3-entry
-  mp3: //drive.google.com/uc?id=1zw9BvrI_HYein1KWZPbuR-S7CrzVI0rF
-podcast_file_size: 49.0 MB # for mp3-file
-podcast_duration: "35:43" # for mp3-file
-podcast_length: 51437185 # for mp3-file
-chapters:
- - '00:00:00.0 Intro'
-transcript: //historie.vih.dk/assets/podcasts/marie-lisby.txt
----
 
+<audio controls>
+  <source src="/others/de1-01.wav" type="audio/wav">
+</audio>
 
 ![](
 /others/speech-recognition-pipeline-2.png)
