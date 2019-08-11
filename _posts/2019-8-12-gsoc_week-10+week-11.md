@@ -23,21 +23,21 @@ This was the most crucial part. I arranged all the modules namely, MFCC Features
 Results
 
 <audio controls>
-  <source src="/others/de1_1.wav" type="audio/wav">
+  <source src="/others/de_1.wav" type="audio/wav">
 </audio>
 
 Gerrit erinnerte sich daran dass er einst einen Eid geschworen hatte
 Garrett erinnerte sich daran dass er einst einen Eid geschworen hatte
 
 <audio controls>
-  <source src="/others/de1_2.wav" type="audio/wav">
+  <source src="/others/de_2.wav" type="audio/wav">
 </audio>
 
 Wenn man schnell fährt ist man von Emden nach Landshut nicht lange unterwegs
 Weil man schnell fährt ist man von Emden nach Landshut nicht lange unterwegs
 
 <audio controls>
-  <source src="/others/de1_3.wav" type="audio/wav">
+  <source src="/others/de_3.wav" type="audio/wav">
 </audio>
 
 Valentin hat das Handtuch geworfen
