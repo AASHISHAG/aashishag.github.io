@@ -22,6 +22,27 @@ It’s week 8 of my GSoC project with Red Hen Lab. As mentioned in an earlier po
 ![](
 /others/de1-01.wav)
 
+<audio controls>
+  <source src="myAudio.mp3" type="audio/mp3">
+</audio>
+
+# Podcast
+listen_time: true
+episode_cover: /assets/podcasts/cover-stemmer.png
+subtitle: "- ansat 39 år med ansvar for kursuscenter og rengøring"
+description: "Interview med Marie Lisby, som startede i rengøringen i 1963 og sluttede med ansvaret for kursuscenteret i 2003."
+image: /assets/podcasts/cover-stemmer.jpg
+media: # requires a mp3-entry
+  mp3: //drive.google.com/uc?id=1zw9BvrI_HYein1KWZPbuR-S7CrzVI0rF
+podcast_file_size: 49.0 MB # for mp3-file
+podcast_duration: "35:43" # for mp3-file
+podcast_length: 51437185 # for mp3-file
+chapters:
+ - '00:00:00.0 Intro'
+transcript: //historie.vih.dk/assets/podcasts/marie-lisby.txt
+---
+
+
 ![](
 /others/speech-recognition-pipeline-2.png)
 

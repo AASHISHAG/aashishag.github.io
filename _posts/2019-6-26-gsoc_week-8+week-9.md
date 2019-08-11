@@ -29,22 +29,6 @@ The following is depicted in the image below:
 ![](
 /others/speech-recognition-pipeline-2.png)
 
-# Podcast
-listen_time: true
-episode_cover: /assets/podcasts/cover-stemmer.png
-subtitle: "- ansat 39 år med ansvar for kursuscenter og rengøring"
-description: "Interview med Marie Lisby, som startede i rengøringen i 1963 og sluttede med ansvaret for kursuscenteret i 2003."
-image: /assets/podcasts/cover-stemmer.jpg
-media: # requires a mp3-entry
-  mp3: //drive.google.com/uc?id=1zw9BvrI_HYein1KWZPbuR-S7CrzVI0rF
-podcast_file_size: 49.0 MB # for mp3-file
-podcast_duration: "35:43" # for mp3-file
-podcast_length: 51437185 # for mp3-file
-chapters:
- - '00:00:00.0 Intro'
-transcript: //historie.vih.dk/assets/podcasts/marie-lisby.txt
----
-
 To work with German dataset, care has to be taken that the scripts are UTF-8 compatible. While most of the example scripts from Kaldi supports UTF-8, there are several that are still in ASCII format. When working on integrating all the above modules, the code produced a lot of issues. Since the bugs were logged on a high level, they were difficult to debug. Also, overtime Kaldi is adapting Python 3, but still many scripts support only Python 2. This was challenging, while I had implemented the pipeline in Python 3. Apart from them, there were other specific data issues. 
 
 I would like to thanks the open community of developers and [Kaldi help group](https://groups.google.com/forum/#!forum/kaldi-help) for the guidance. 
