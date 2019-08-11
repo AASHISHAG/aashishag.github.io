@@ -22,6 +22,9 @@ It’s week 8 of my GSoC project with Red Hen Lab. As mentioned in an earlier po
 ![](
 /others/de1-01.wav)
 
+![](
+/others/speech-recognition-pipeline-2.png)
+
 New to update and provide results ......
 
 I will keep you posted about my progress!
