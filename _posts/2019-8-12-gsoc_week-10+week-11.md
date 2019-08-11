@@ -26,33 +26,72 @@ Results
   <source src="/others/de1-01.wav" type="audio/wav">
 </audio>
 
+Gerrit erinnerte sich daran dass er einst einen Eid geschworen hatte
+Garrett erinnerte sich daran dass er einst einen Eid geschworen hatte
+
 <audio controls>
   <source src="/others/de1-02.wav" type="audio/wav">
 </audio>
+
+Wenn man schnell fährt ist man von Emden nach Landshut nicht lange unterwegs
+Weil man schnell fährt ist man von Emden nach Landshut nicht lange unterwegs
 
 <audio controls>
   <source src="/others/de1-03.wav" type="audio/wav">
 </audio>
 
+Valentin hat das Handtuch geworfen
+Valentin hat das Handtuch geworfen
+
 <audio controls>
   <source src="/others/de1-04.wav" type="audio/wav">
 </audio>
 
-<audio controls>
-  <source src="/others/de1-01.wav" type="audio/wav">
-</audio>
+Auf das was jetzt kommt habe ich nämlich absolut keinen Bock
+Auf das was jetzt kommt habe ich nämlich absolut keinen Bock
 
 <audio controls>
   <source src="/others/de1-01.wav" type="audio/wav">
 </audio>
 
-<audio controls>
-  <source src="/others/de1-01.wav" type="audio/wav">
-</audio>
+Ich könnte eine Mitfahrgelegenheit nach Schweinfurt anbieten
+Ich könnte eine Mitfahrgelegenheit nach Schweinfurt anbieten
 
 <audio controls>
   <source src="/others/de1-01.wav" type="audio/wav">
 </audio>
+
+Man sollte den Länderfinanzausgleich durch einen Bundesligasoli ersetzen
+Man sollte den Länderfinanzausgleich durch ein Bundesliga Soli ersetzen
+
+<audio controls>
+  <source src="/others/de1-01.wav" type="audio/wav">
+</audio>
+
+Von Salzburg ist es doch nicht weit bis zum Chiemsee
+Von Salzburg ist es doch nicht weit Bistum Chiemsee
+
+<audio controls>
+  <source src="/others/de1-01.wav" type="audio/wav">
+</audio>
+
+Selbst für den erfahrensten Chirurgen ist der Tumor eine knifflige Herausforderung
+Selbst für den erfahrensten Chirurgen ist der Tumor eine knifflige raus Federung
+
+<audio controls>
+  <source src="/others/de1-01.wav" type="audio/wav">
+</audio>
+
+Folgende Lektüre kann ich ihnen zum Thema Kognitionspsychologie empfehlen
+Folgende Lektüre kann ich ihn zum Thema Kognitionspsychologie empfehlen
+
+<audio controls>
+  <source src="/others/de1-01.wav" type="audio/wav">
+</audio>
+
+Warum werden da keine strafrechtlichen Konsequenzen gezogen
+Warum werden da keine strafrechtlichen Konsequenzen gezogen
+
 
 CASE HPC
 
