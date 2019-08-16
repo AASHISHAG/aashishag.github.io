@@ -184,7 +184,13 @@ One of the critical tasks was to run the model on CASE HPC using Singularity. Th
 
 I created a Singularity file at GitHub, that gets automatically build at Singularity Hub on every commit. The image can be pulled from Singularity Hub, and code can be run inside it. 
 
-Next week is the last week. I will be documenting all my work. I hope you enjoyed reading my blogs!!
+``` bash
+module pull singularity
+singularity pull --name kaldi_de.img shub://AASHISHAG/asr-german
+singularity shell -e -H `pwd` singularity-images/kaldi_de.sif
+```
+
+The model is working as expected in Singularity. Next, I will create the German Speech Pipeline and format the transcripts in Red Hen's Data Format and document all my work. I hope you enjoyed reading my blogs!!
 
 ### Others
 
