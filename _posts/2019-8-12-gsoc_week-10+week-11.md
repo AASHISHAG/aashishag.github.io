@@ -15,11 +15,11 @@ Link to [Repository of Code](https://github.com/AASHISHAG/asr-german)
 
 ### Describe my work briefly
 
-I am happy to update on my Week 10 and Week 11 progress. This period was the most exciting period. I spent time training and evaluatig the model and finally running it on CASE HPC.
+I am happy to update on my Week 10 and Week 11 progress. This period was the most exciting. I spent time training and evaluating the model and finally running it on CASE HPC.
 
 ### Training
 
-This was the most crucial part. I arranged all the modules namely, MFCC Features, Acoustic Model and Language Model and tested the sequence on a smaller dataset, before putting the model on training on the complete data. The training took around 9 days to complete and finally it was 100%.
+This was the most crucial part. I arranged all the modules, namely, MFCC Features, Acoustic Model and Language Model and tested the sequence on a smaller dataset, before putting the model on training on the complete data. The training took around nine days to complete, and finally, it was 100%.
 
 ``` bash
 [steps/nnet3/chain/train.py:519 - train - INFO ] Iter: 5478/5483   Jobs: 1   Epoch: 4.00/4.0 (99.9% complete)   lr: 0.000100   shrink: 0.99799
@@ -177,14 +177,14 @@ $ Output: Warum werden da keine strafrechtlichen Konsequenzen gezogen
 
 ### CASE HPC
 
-One of the important task was to run the model on CASE HPC using Singularity. This was almost as challenging as training the model. I even reported a [BUG](https://groups.google.com/a/lbl.gov/forum/?utm_medium=email&utm_source=footer#!topic/singularity/n_6p1BAoTs0). I am thank full to the Standoford team for fixing it in a overnight. Singularity is based on the same concept of Docker but it doesn't provide **root**. Singularity provides an environment to hold all the dependencies. [Singularity documentation](https://sylabs.io/guides/2.5/user-guide/quick_start.html) helped to learn most of the concepts. The below image helped me to understand Singularity.
+One of the critical tasks was to run the model on CASE HPC using Singularity. This was almost as challenging as training the model. I even reported a [BUG](https://groups.google.com/a/lbl.gov/forum/?utm_medium=email&utm_source=footer#!topic/singularity/n_6p1BAoTs0). I am thankful to the Standford team for fixing it in overnight. Singularity is based on the same concept of Docker, but it doesn't provide **root**. Singularity offers an environment to hold all the dependencies. [Singularity documentation](https://sylabs.io/guides/2.5/user-guide/quick_start.html) helped to learn most of the concepts. The below image enabled me to understand Singularity.
 
 ![](
 /others/singularity.PNG)
 
-I created a Singularity file at GitHub, that gets automatically build at Singularity Hub on very commit. The image can be pulled from Singularity Hub and code can be run inside it. 
+I created a Singularity file at GitHub, that gets automatically build at Singularity Hub on every commit. The image can be pulled from Singularity Hub, and code can be run inside it. 
 
-Next week is the last week. I will documenting all my work. Hope you enjoyed reading my blogs!!
+Next week is the last week. I will be documenting all my work. I hope you enjoyed reading my blogs!!
 
 ### Others
 
