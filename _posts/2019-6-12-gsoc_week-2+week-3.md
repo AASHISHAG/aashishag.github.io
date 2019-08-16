@@ -19,7 +19,7 @@ I am happy to update on my Week 2 and Week 3 progress. These two weeks were cruc
 
 ### Kaldi Installation
 
-It all started with the installation of Kaldi and the requisites. Kaldi installation which looks seemingly straightforward; proved to be quite challenging. The documentation is not straight forward. I witnessed many errors. I resolved a few errors by referring, and for a few, I had to re-install Kaldi all together, which every time took 4-5 hours to install depending on the server configurations. I managed to document all the necessary steps on [GitHub](https://github.com/AASHISHAG/asr-german).
+It all started with the installation of Kaldi and the requisites. Kaldi installation which looks seemingly straightforward; proved to be quite challenging. The documentation is not straight forward. I witnessed many errors. I resolved a few errors by referring to [Kaldi's documentation](http://www.kaldi-asr.org/), and for a few, I had to re-install Kaldi all together, which every time took 4-5 hours to install depending on the server configurations. I managed to document all the necessary steps on [GitHub](https://github.com/AASHISHAG/asr-german).
 
 ### Data Pre-Processing
 
