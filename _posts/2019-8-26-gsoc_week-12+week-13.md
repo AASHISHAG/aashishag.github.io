@@ -19,7 +19,7 @@ I am happy to update on my Week 12 and Week 13 progress. I utilized this period 
 
 ### Kaldi-Gstreamer-Server
 
-I used [Kaldi-Gstreamer-Server](https://github.com/alumae/kaldi-gstreamer-server) to run the model on HPC. This is a real-time full-duplex speech recognition server, based on the Kaldi toolkit and the GStreamer framework and implemented in Python. It also provides an API where audio can posted to get real time output. Kaldi-Gstreamer-Server that helped to avoid using VAD (Voice Activity Detection), as it automatically splits the audio in small clips of length 8 seconds each and pushes it to Kaldi for Speech Transcription.
+I used [Kaldi-Gstreamer-Server](https://github.com/alumae/kaldi-gstreamer-server) to run the model on HPC. This is a real-time full-duplex speech recognition server, based on the Kaldi toolkit and the GStreamer framework and implemented in Python. It also provides an API where audio can post to get real-time transcripts. Kaldi-Gstreamer-Server helped to avoid using VAD (Voice Activity Detection) toolkit, as it automatically splits the audio in small clips of length 8 seconds each and pushes it to Kaldi for Speech Transcription. It is thus producing a continuous speech transcription.
 
 Lastly, I created a Pipeline that automatically picks the Red Hen's German News for a given day, converts it to WAV and transcribes and finally formats the data in Red Hens Data Format with appropriate Headers and Footers.
 
