@@ -61,7 +61,7 @@ END|20190812181455|2019-08-12_1800_DE_DasErste_Tagesschau
 
 This ends my 13 weeks journey at [Red Hen Lab](http://www.redhenlab.org/home) for GSoC-2019. I enjoyed working with the team, and I learned a lot solving the challenges. I want to specially thanks to my mentor Dr. Jan Gorisch for providing valuable comments and guiding me over my journey!
 
-I hope you enjoyed reading my blogs!!
+And most importantly, I express my gratitude to the people behind Google Summer of Code. I had a very enjoyable experience working in GSoC 2019. I hope I keep contributing.
 
 ### Others
 
