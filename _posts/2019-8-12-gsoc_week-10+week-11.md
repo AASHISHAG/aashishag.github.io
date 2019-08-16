@@ -177,15 +177,16 @@ $ Warum werden da keine strafrechtlichen Konsequenzen gezogen
 
 ### CASE HPC
 
-One of the important task was to run the model on CASE HPC using Singularity. This was almost as challenging as training the model. I even reported a [BUG](https://groups.google.com/a/lbl.gov/forum/?utm_medium=email&utm_source=footer#!topic/singularity/n_6p1BAoTs0). I am thank full to the Standoford team for fixing it in a overnight. Singularity is based on the same concept of Docker but it doesn't provide **root**. Singularity provides an environment to hold all the dependencies. The below image helped me to understand Singularity.
+One of the important task was to run the model on CASE HPC using Singularity. This was almost as challenging as training the model. I even reported a [BUG](https://groups.google.com/a/lbl.gov/forum/?utm_medium=email&utm_source=footer#!topic/singularity/n_6p1BAoTs0). I am thank full to the Standoford team for fixing it in a overnight. Singularity is based on the same concept of Docker but it doesn't provide **root**. Singularity provides an environment to hold all the dependencies. [Singularity documentation](https://sylabs.io/guides/2.5/user-guide/quick_start.html) helped to learn most of the concepts. The below image helped me to understand Singularity.
 
 ![](
 /others/singularity.PNG)
 
-I created a Singularity file at GitHub, that gets automatically build at Singularity Hub on very commit. The image can be pulled from Singularity Hub and code can be run inside it. I used Kaldi-Gstreamer-Server to run the model on HPC, that helped to avoid usig VAD (Voice Activity Detection), as it automatically splits the audio in small clips of length 8 seconds each and pushes it to Kaldi for Speech Transciption.
+I created a Singularity file at GitHub, that gets automatically build at Singularity Hub on very commit. The image can be pulled from Singularity Hub and code can be run inside it. 
 
+I used [Kaldi-Gstreamer-Server](https://github.com/alumae/kaldi-gstreamer-server) to run the model on HPC, that helped to avoid usig VAD (Voice Activity Detection), as it automatically splits the audio in small clips of length 8 seconds each and pushes it to Kaldi for Speech Transciption.
 
-
+Lastly, I created a Pipeline that automatically picks the Red Hen's German News for a given day, convrets it to WAV and transcribes and finally formats the data in Red Hens Data Format with appropripare Headers and Footers.
 
 
 This is a small excerpt from the Red Hen News Dataset. The MP4 files are programmatically converted to WAV and fed to Kaldi-Gstreamer-Server. The model output, i.e., the transcripts are further formatted to adopt [Red Hen's Data Format](https://sites.google.com/site/distributedlittleredhen/home/the-cognitive-core-research-topics-in-red-hen/red-hen-data-format#TOC-Audio-Pipeline-Tags).
