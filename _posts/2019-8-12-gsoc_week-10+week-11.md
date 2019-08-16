@@ -195,6 +195,8 @@ ASR_01|2019-08-15 08:34|Source_Program=Kaldi,infer.sh|Source_Person=Aashish Agar
 END|20190812181455|2019-08-12_1800_DE_DasErste_Tagesschau
 ```
 
+Next week is the last week. I will documenting all my work. Hope you enjoyed reading my blogs!!
+
 ### Others
 
 - [My GSoC 2019 Journey](https://aashishag.github.io/categories/#gsoc)
