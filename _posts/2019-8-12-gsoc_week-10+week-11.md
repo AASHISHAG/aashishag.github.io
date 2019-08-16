@@ -74,7 +74,7 @@ $ Gerrit erinnerte sich daran dass er einst einen Eid geschworen hatte
 $ Garrett erinnerte sich daran dass er einst einen Eid geschworen hatte
 ```
 
-**[DE_01]**
+**[DE_02]**
 
 <audio controls>
   <source src="/others/de_2.wav" type="audio/wav">
@@ -85,7 +85,7 @@ $ Wenn man schnell fährt ist man von Emden nach Landshut nicht lange unterwegs
 $ Weil man schnell fährt ist man von Emden nach Landshut nicht lange unterwegs
 ```
 
-**[DE_01]**
+**[DE_03]**
 
 <audio controls>
   <source src="/others/de_3.wav" type="audio/wav">
@@ -96,7 +96,7 @@ $ Valentin hat das Handtuch geworfen
 $ Valentin hat das Handtuch geworfen
 ```
 
-**[DE_01]**
+**[DE_04]**
 
 <audio controls>
   <source src="/others/de_4.wav" type="audio/wav">
@@ -107,7 +107,7 @@ $ Auf das was jetzt kommt habe ich nämlich absolut keinen Bock
 $ Auf das was jetzt kommt habe ich nämlich absolut keinen Bock
 ```
 
-**[DE_01]**
+**[DE_05]**
 
 <audio controls>
   <source src="/others/de_5.wav" type="audio/wav">
@@ -118,7 +118,7 @@ $ Ich könnte eine Mitfahrgelegenheit nach Schweinfurt anbieten
 $ Ich könnte eine Mitfahrgelegenheit nach Schweinfurt anbieten
 ```
 
-**[DE_01]**
+**[DE_06]**
 
 <audio controls>
   <source src="/others/de_6.wav" type="audio/wav">
@@ -129,7 +129,7 @@ $ Man sollte den Länderfinanzausgleich durch einen Bundesligasoli ersetzen
 $ Man sollte den Länderfinanzausgleich durch ein Bundesliga Soli ersetzen
 ```
 
-**[DE_01]**
+**[DE_07]**
 
 <audio controls>
   <source src="/others/de_7.wav" type="audio/wav">
@@ -140,7 +140,7 @@ $ Von Salzburg ist es doch nicht weit bis zum Chiemsee
 $ Von Salzburg ist es doch nicht weit Bistum Chiemsee
 ```
 
-**[DE_01]**
+**[DE_08]**
 
 <audio controls>
   <source src="/others/de_8.wav" type="audio/wav">
@@ -151,7 +151,7 @@ $ Selbst für den erfahrensten Chirurgen ist der Tumor eine knifflige Herausford
 $ Selbst für den erfahrensten Chirurgen ist der Tumor eine knifflige raus Federung
 ```
 
-**[DE_01]**
+**[DE_09]**
 
 <audio controls>
   <source src="/others/de_9.wav" type="audio/wav">
@@ -162,7 +162,7 @@ $ Folgende Lektüre kann ich ihnen zum Thema Kognitionspsychologie empfehlen
 $ Folgende Lektüre kann ich ihn zum Thema Kognitionspsychologie empfehlen
 ``` 
 
-**[DE_01]**
+**[DE_10]**
 
 <audio controls>
   <source src="/others/de_10.wav" type="audio/wav">
