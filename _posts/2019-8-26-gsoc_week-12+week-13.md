@@ -15,16 +15,16 @@ Link to [Repository of Code](https://github.com/AASHISHAG/asr-german)
 
 ### Describe my work briefly
 
-I am happy to update on my Week 12 and Week 13 aprogress. I utilized this period to create the German Speech Pipeline and format the transcripts in Red Hen's Data Format and document my work.
+I am happy to update on my Week 12 and Week 13 progress. I utilized this period to create the German Speech Pipeline and format the transcripts in Red Hen's Data Format and document my work.
 
-I used [Kaldi-Gstreamer-Server](https://github.com/alumae/kaldi-gstreamer-server) to run the model on HPC, that helped to avoid usig VAD (Voice Activity Detection), as it automatically splits the audio in small clips of length 8 seconds each and pushes it to Kaldi for Speech Transciption.
+I used [Kaldi-Gstreamer-Server](https://github.com/alumae/kaldi-gstreamer-server) to run the model on HPC, that helped to avoid using VAD (Voice Activity Detection), as it automatically splits the audio in small clips of length 8 seconds each and pushes it to Kaldi for Speech Transcription.
 
-Lastly, I created a Pipeline that automatically picks the Red Hen's German News for a given day, convrets it to WAV and transcribes and finally formats the data in Red Hens Data Format with appropripare Headers and Footers.
+Lastly, I created a Pipeline that automatically picks the Red Hen's German News for a given day, converts it to WAV and transcribes and finally formats the data in Red Hens Data Format with appropriate Headers and Footers.
 
 
 This is a small excerpt from the Red Hen News Dataset. The MP4 files are programmatically converted to WAV and fed to Kaldi-Gstreamer-Server. The model output, i.e., the transcripts are further formatted to adopt [Red Hen's Data Format](https://sites.google.com/site/distributedlittleredhen/home/the-cognitive-core-research-topics-in-red-hen/red-hen-data-format#TOC-Audio-Pipeline-Tags).
-	
-``` bash	
+    
+``` bash    
 TOP|20190812180001|2019-08-12_1800_DE_DasErste_Tagesschau
 COL|Communication Studies Archive, UCLA
 UID|3ef55370-bd2d-11e9-95d1-b78b1645001f
