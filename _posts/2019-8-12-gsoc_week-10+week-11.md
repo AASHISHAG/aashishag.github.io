@@ -72,8 +72,8 @@ Here are some of the results I obtained after training the model. These results 
 </audio>
 
 ``` bash
-$ Gerrit erinnerte sich daran dass er einst einen Eid geschworen hatte
-$ Garrett erinnerte sich daran dass er einst einen Eid geschworen hatte
+$ Actual: Gerrit erinnerte sich daran dass er einst einen Eid geschworen hatte
+$ Output: Garrett erinnerte sich daran dass er einst einen Eid geschworen hatte
 ```
 
 **[DE_02]**
@@ -83,8 +83,8 @@ $ Garrett erinnerte sich daran dass er einst einen Eid geschworen hatte
 </audio>
 
 ``` bash
-$ Wenn man schnell fährt ist man von Emden nach Landshut nicht lange unterwegs
-$ Weil man schnell fährt ist man von Emden nach Landshut nicht lange unterwegs
+$ Actual: Wenn man schnell fährt ist man von Emden nach Landshut nicht lange unterwegs
+$ Output: Weil man schnell fährt ist man von Emden nach Landshut nicht lange unterwegs
 ```
 
 **[DE_03]**
@@ -94,8 +94,8 @@ $ Weil man schnell fährt ist man von Emden nach Landshut nicht lange unterwegs
 </audio>
 
 ``` bash
-$ Valentin hat das Handtuch geworfen
-$ Valentin hat das Handtuch geworfen
+$ Actual: Valentin hat das Handtuch geworfen
+$ Output: Valentin hat das Handtuch geworfen
 ```
 
 **[DE_04]**
@@ -105,8 +105,8 @@ $ Valentin hat das Handtuch geworfen
 </audio>
 
 ``` bash
-$ Auf das was jetzt kommt habe ich nämlich absolut keinen Bock
-$ Auf das was jetzt kommt habe ich nämlich absolut keinen Bock
+$ Actual: Auf das was jetzt kommt habe ich nämlich absolut keinen Bock
+$ Output: Auf das was jetzt kommt habe ich nämlich absolut keinen Bock
 ```
 
 **[DE_05]**
@@ -116,8 +116,8 @@ $ Auf das was jetzt kommt habe ich nämlich absolut keinen Bock
 </audio>
 
 ``` bash
-$ Ich könnte eine Mitfahrgelegenheit nach Schweinfurt anbieten
-$ Ich könnte eine Mitfahrgelegenheit nach Schweinfurt anbieten
+$ Actual: Ich könnte eine Mitfahrgelegenheit nach Schweinfurt anbieten
+$ Output: Ich könnte eine Mitfahrgelegenheit nach Schweinfurt anbieten
 ```
 
 **[DE_06]**
@@ -127,7 +127,7 @@ $ Ich könnte eine Mitfahrgelegenheit nach Schweinfurt anbieten
 </audio>
 
 ``` bash
-$ Man sollte den Länderfinanzausgleich durch einen Bundesligasoli ersetzen
+$ Actual: Man sollte den Länderfinanzausgleich durch einen Bundesligasoli ersetzen
 $ Man sollte den Länderfinanzausgleich durch ein Bundesliga Soli ersetzen
 ```
 
@@ -138,8 +138,8 @@ $ Man sollte den Länderfinanzausgleich durch ein Bundesliga Soli ersetzen
 </audio>
 
 ``` bash
-$ Von Salzburg ist es doch nicht weit bis zum Chiemsee
-$ Von Salzburg ist es doch nicht weit Bistum Chiemsee
+$ Actual: Von Salzburg ist es doch nicht weit bis zum Chiemsee
+$ Output: Von Salzburg ist es doch nicht weit Bistum Chiemsee
 ```
 
 **[DE_08]**
@@ -149,8 +149,8 @@ $ Von Salzburg ist es doch nicht weit Bistum Chiemsee
 </audio>
 
 ``` bash
-$ Selbst für den erfahrensten Chirurgen ist der Tumor eine knifflige Herausforderung
-$ Selbst für den erfahrensten Chirurgen ist der Tumor eine knifflige raus Federung
+$ Actual: Selbst für den erfahrensten Chirurgen ist der Tumor eine knifflige Herausforderung
+$ Output: Selbst für den erfahrensten Chirurgen ist der Tumor eine knifflige raus Federung
 ```
 
 **[DE_09]**
@@ -160,8 +160,8 @@ $ Selbst für den erfahrensten Chirurgen ist der Tumor eine knifflige raus Feder
 </audio>
 
 ``` bash
-$ Folgende Lektüre kann ich ihnen zum Thema Kognitionspsychologie empfehlen
-$ Folgende Lektüre kann ich ihn zum Thema Kognitionspsychologie empfehlen
+$ Actual: Folgende Lektüre kann ich ihnen zum Thema Kognitionspsychologie empfehlen
+$ Output: Folgende Lektüre kann ich ihn zum Thema Kognitionspsychologie empfehlen
 ``` 
 
 **[DE_10]**
@@ -171,8 +171,8 @@ $ Folgende Lektüre kann ich ihn zum Thema Kognitionspsychologie empfehlen
 </audio>
 
 ``` bash
-$ Warum werden da keine strafrechtlichen Konsequenzen gezogen
-$ Warum werden da keine strafrechtlichen Konsequenzen gezogen
+$ Actual: Warum werden da keine strafrechtlichen Konsequenzen gezogen
+$ Output: Warum werden da keine strafrechtlichen Konsequenzen gezogen
 ```
 
 ### CASE HPC
