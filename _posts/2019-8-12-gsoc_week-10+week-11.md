@@ -38,7 +38,9 @@ Here are some of the results I obtained after training the model. These results 
 <p align="center"><img src="/others/training_graph.png" width='54%' height='60%'></p>
 
 **Percentage of _Deletion_, _Insertion_ and _Subsitution Error_ across different Training Stages**
-<img align = "left" src="/others/error_graph-1.png" width='43%' height='45%'> <img float ="right" src="/others/error_graph-2.png" width='44%' height='45%'>
+
+<img align = "left" src="/others/error_graph-1.png" width='43%' height='45%'>
+<img float ="right" src="/others/error_graph-2.png" width='44%' height='45%'>
 
 ``` bash
 %WER 58.10 [ 38790 / 66768, 1903 ins, 16466 del, 20421 sub ] [PARTIAL] exp//tri1/decode_dev_nosp/wer_10_0.0
