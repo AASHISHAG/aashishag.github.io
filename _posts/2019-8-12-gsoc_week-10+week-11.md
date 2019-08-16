@@ -177,6 +177,16 @@ $ Warum werden da keine strafrechtlichen Konsequenzen gezogen
 
 ### CASE HPC
 
+One of the important task was to run the model on CASE HPC using Singularity. This was almost as challenging as training the model. Singularity is based on the same concept of Docker but it doesn't provide **root**. The below image helped me to understand Singularity.
+
+![](
+/others/singularity.png)
+
+Singularity provides an environment to hold all the dependencies. I created a Singularity file at GitHub, that gets automatically build at Singularity Hub. The image can be pulled from Singularity Hub and 
+
+
+
+
 This is a small excerpt from the Red Hen News Dataset. The MP4 files are programmatically converted to WAV and fed to Kaldi-Gstreamer-Server. The model output, i.e., the transcripts are further formatted to adopt [Red Hen's Data Format](https://sites.google.com/site/distributedlittleredhen/home/the-cognitive-core-research-topics-in-red-hen/red-hen-data-format#TOC-Audio-Pipeline-Tags).
 	
 ``` bash	
