@@ -177,12 +177,12 @@ $ Warum werden da keine strafrechtlichen Konsequenzen gezogen
 
 ### CASE HPC
 
-One of the important task was to run the model on CASE HPC using Singularity. This was almost as challenging as training the model. Singularity is based on the same concept of Docker but it doesn't provide **root**. The below image helped me to understand Singularity.
+One of the important task was to run the model on CASE HPC using Singularity. This was almost as challenging as training the model. I even reported a [BUG](https://groups.google.com/a/lbl.gov/forum/?utm_medium=email&utm_source=footer#!topic/singularity/n_6p1BAoTs0). I am thank full to the Standoford team for fixing it in a overnight. Singularity is based on the same concept of Docker but it doesn't provide **root**. Singularity provides an environment to hold all the dependencies. The below image helped me to understand Singularity.
 
 ![](
 /others/singularity.png)
 
-Singularity provides an environment to hold all the dependencies. I created a Singularity file at GitHub, that gets automatically build at Singularity Hub. The image can be pulled from Singularity Hub and 
+I created a Singularity file at GitHub, that gets automatically build at Singularity Hub on very commit. The image can be pulled from Singularity Hub and code can be run inside it.
 
 
 
