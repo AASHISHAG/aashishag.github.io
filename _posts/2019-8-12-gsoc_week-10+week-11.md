@@ -182,7 +182,8 @@ One of the important task was to run the model on CASE HPC using Singularity. Th
 ![](
 /others/singularity.png)
 
-I created a Singularity file at GitHub, that gets automatically build at Singularity Hub on very commit. The image can be pulled from Singularity Hub and code can be run inside it.
+I created a Singularity file at GitHub, that gets automatically build at Singularity Hub on very commit. The image can be pulled from Singularity Hub and code can be run inside it. I used Kaldi-Gstreamer-Server to run the model on HPC, that helped to avoid usig VAD (Voice Activity Detection), as it automatically splits the audio in small clips of length 8 seconds each and pushes it to Kaldi for Speech Transciption.
+
 
 
 
@@ -204,6 +205,7 @@ ASR_01|2019-08-15 08:34|Source_Program=Kaldi,infer.sh|Source_Person=Aashish Agar
 20190812180014.280|20190812180024.280|ASR_01|So ist es die erste deutsche Fernsehen mit der Tagesschau. Heute im Studio Jan Hofer Nama der Damen und Herren ich begrüße sie zwei Tage. Bundesumweltministerin Schultze will die Hersteller von wegwerfen Artikeln künftig an den Kosten für die Müllbeseitigung beteiligen die es für die Politiker werden stellt ihre Pläne heute in Berlin vor Die sprach von einer regelrechten Müll Flut in manchen Städten Ziel sei eine finanzielle Entlastung der Kommunen und ein Umdenken in der Gesellschaft betroffen werden. <UNK> anderem Firmen sein die Verpackungen Getränke Becher Plastiktüten und Zigaretten Filter produzieren. Alltag auf deutschen Straßen. Reste der wegwerfen Gesellschaft. Für die Aufräumarbeiten Zahlen Städte und Gemeinden. Die Bundesumweltministerin will die Kommunen entlasten mit Geld das sie bei den Herstellern der wegwerfen Artikel eintreiben möchte. Heißt das Sie müssen für das Einsammeln dieser Produkte zahlen sie müssen sich anteilsmäßig an den Kosten für das Aufstellen von Abfall Behältern Beteiligungen ebenso müssen sich diese Hersteller an den Kosten für die Entsorgung beziehungsweise das Recycling beteiligen damit setzt wenn ihr Schulz für eine EU Richtlinie. Der Koalitionspartner aber sorgt das ginge auch anders ohne eine Zusatzbelastungen der Verpackungsindustrie
 END|20190812181455|2019-08-12_1800_DE_DasErste_Tagesschau
 ```
+
 
 Next week is the last week. I will documenting all my work. Hope you enjoyed reading my blogs!!
 
