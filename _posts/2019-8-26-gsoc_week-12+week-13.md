@@ -1,6 +1,6 @@
 ---
-title:  "Week 12 (ASR - German)"
-date:   2019-8-19
+title:  "Week 12 + Week 13 (ASR - German)"
+date:   2019-8-26
 layout: single
 author_profile: true
 comments: true
@@ -15,7 +15,7 @@ Link to [Repository of Code](https://github.com/AASHISHAG/asr-german)
 
 ### Describe my work briefly
 
-I am happy to update on my Week 12 progress. This period was the most exciting period. I spent time training and evaluatig the model and finally running it on CASE HPC.
+I am happy to update on my Week 12 and Week 13 aprogress. I utilized this period to create the German Speech Pipeline and format the transcripts in Red Hen's Data Format and document my work.
 
 I used [Kaldi-Gstreamer-Server](https://github.com/alumae/kaldi-gstreamer-server) to run the model on HPC, that helped to avoid usig VAD (Voice Activity Detection), as it automatically splits the audio in small clips of length 8 seconds each and pushes it to Kaldi for Speech Transciption.
 
