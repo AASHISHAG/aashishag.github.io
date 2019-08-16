@@ -65,7 +65,7 @@ Output:
 ```
 
 
-Week 4 and Week 5 is the evaluation period. I will take feedback from mentors and bring improvements to my task. The first task would be to build the German phoneme dictionary. The data is not readily available. I approach to use the scripts provided by the researchers at Hamburg University, Germany. The technique needs to be verified, and some bottlenecks are expected.
+Week 4 and Week 5 is the evaluation period. I will take feedback from mentors and bring improvements to my task. The next task would be to build the German phoneme dictionary. The data is not readily available. I approach to use the scripts provided by the researchers at Hamburg University, Germany. The technique needs to be verified, and some bottlenecks are expected.
 
 I will keep you posted about my progress!
 
