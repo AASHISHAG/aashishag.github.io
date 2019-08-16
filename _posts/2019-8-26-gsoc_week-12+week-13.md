@@ -30,7 +30,8 @@ $ ./run-model.sh path_audio_clip
 ``` 
 
 ### German Speech Pipeline
-Lastly, I created a Pipeline that automatically picks the Red Hen's German News for a given day, converts it to WAV and transcribes and finally formats the data in Red Hens Data Format with appropriate Headers and Footers.
+
+Last task was to create a German Speech Pipeline, that can transcribe Red Hen's News Dataset. I created a Pipeline that automatically picks the Red Hen's German News for a given day, converts it to WAV, transcribes it, and finally formats the data in [Red Hens Data Format](https://sites.google.com/site/distributedlittleredhen/home/the-cognitive-core-research-topics-in-red-hen/red-hen-data-format#TOC-Audio-Pipeline-Tags) adding appropriate Headers and Footers.
 
 
 This is a small excerpt from the Red Hen News Dataset. The MP4 files are programmatically converted to WAV and fed to Kaldi-Gstreamer-Server. The model output, i.e., the transcripts are further formatted to adopt [Red Hen's Data Format](https://sites.google.com/site/distributedlittleredhen/home/the-cognitive-core-research-topics-in-red-hen/red-hen-data-format#TOC-Audio-Pipeline-Tags).
