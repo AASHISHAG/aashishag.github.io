@@ -42,7 +42,7 @@ I took inspiration from Red Hen's Chinese Speech Pipeline to achieve this daunti
 ``` bash
 $ ./run-server.sh
 $ ./run-worker.sh
-$ ./model-run.sh path_audio_clip
+$ ./model-run.sh specify_the_number_of_days_from_the_current_date_the_model_should_transcribe
 ``` 
 
 This is a small excerpt from the Red Hen News Dataset. The MP4 files are programmatically converted to WAV and fed to Kaldi-Gstreamer-Server. The model output, i.e., the transcripts are further formatted to adopt [Red Hen's Data Format](https://sites.google.com/site/distributedlittleredhen/home/the-cognitive-core-research-topics-in-red-hen/red-hen-data-format#TOC-Audio-Pipeline-Tags).
