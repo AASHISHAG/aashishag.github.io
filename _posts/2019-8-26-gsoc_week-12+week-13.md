@@ -71,15 +71,32 @@ Example:
 ``` bash    
 statt
 Stadt
- S  
 
 das
 dass
- S
 ```
  
-2.
-3.
+2. German Morphology (word combinations)
+Example: 
+
+``` bash    
+Wettbewerbsumfeld
+Wettbewerbs        Umfeld     
+
+Hörverstehensteil
+Hörverstehen        steil      
+```
+
+3. Plural (sounds in some cases very similar to the singular, but is spelled differently)
+Example: 
+
+``` bash    
+Kontamination
+Kontaminationen
+
+Prüfungsleistung 
+Prüfungsleistungen
+```
 
 This ends my 13 weeks journey at [Red Hen Lab](http://www.redhenlab.org/home) for GSoC-2019. I enjoyed working with the team, and I learned a lot solving the challenges. I want to specially thanks to my mentor Dr. Jan Gorisch for providing valuable comments and guiding me over my journey!
 
