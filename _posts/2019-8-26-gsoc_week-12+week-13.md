@@ -63,6 +63,24 @@ ASR_02|2019-08-19 14:07|Source_Program=Kaldi,infer.sh|Source_Person=Aashish Agar
 END|20190817150956|2019-08-17_1500_DE_DasErste_Tagesschau
 ```
 
+### Challenges
+The model suffers with few challenges, as pointed by my mentor Dr. Jan Gorisch, which is specific to German.
+1. Homonymes, i.e., same sounds but different spelling and meaning.
+Example: 
+
+``` bash    
+statt
+Stadt
+ S  
+
+das
+dass
+ S
+```
+ 
+2.
+3.
+
 This ends my 13 weeks journey at [Red Hen Lab](http://www.redhenlab.org/home) for GSoC-2019. I enjoyed working with the team, and I learned a lot solving the challenges. I want to specially thanks to my mentor Dr. Jan Gorisch for providing valuable comments and guiding me over my journey!
 
 And most importantly, I express my gratitude to the people behind Google Summer of Code. I had a very enjoyable experience working in GSoC 2019. I hope I keep contributing.
