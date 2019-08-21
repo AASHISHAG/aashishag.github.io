@@ -64,7 +64,8 @@ END|20190817150956|2019-08-17_1500_DE_DasErste_Tagesschau
 ```
 
 ### Challenges
-The model suffers with few challenges, as pointed by my mentor Dr. Jan Gorisch, which is specific to German.
+On close observation of the decoded transcripts, my mentor Dr. Jan Gorisch identified a few challenges, which are specific to German.
+
 1. Homonymes, i.e., same sounds but different spelling and meaning.
 Example: 
 
@@ -81,10 +82,10 @@ Example:
 
 ``` bash    
 Wettbewerbsumfeld
-Wettbewerbs        Umfeld     
+Wettbewerbs Umfeld     
 
 Hörverstehensteil
-Hörverstehen        steil      
+Hörverstehen steil      
 ```
 
 3. Plural (sounds in some cases very similar to the singular, but is spelled differently)
@@ -98,9 +99,9 @@ Prüfungsleistung
 Prüfungsleistungen
 ```
 
-This ends my 13 weeks journey at [Red Hen Lab](http://www.redhenlab.org/home) for GSoC-2019. I enjoyed working with the team, and I learned a lot solving the challenges. I want to specially thanks to my mentor Dr. Jan Gorisch for providing valuable comments and guiding me over my journey!
+This ends my 13 weeks journey at [Red Hen Lab](http://www.redhenlab.org/home) for GSoC-2019. I enjoyed working with the team, and I learned a lot solving the challenges. I want to specially thanks to my mentor Dr. Jan Gorisch, for providing valuable comments and guiding me over my journey!
 
-And most importantly, I express my gratitude to the people behind Google Summer of Code. I had a very enjoyable experience working in GSoC 2019. I hope I keep contributing.
+And most importantly, I express my gratitude to the people behind the Google Summer of Code. I had a very enjoyable experience working in GSoC 2019. I hope I keep contributing.
 
 ### Others
 
