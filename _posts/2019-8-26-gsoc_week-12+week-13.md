@@ -29,42 +29,6 @@ $ ./run-worker.sh
 $ ./run-model.sh path_audio_clip
 ``` 
 
-### Challenges
-On close observation of the decoded transcripts, my mentor Dr. Jan Gorisch identified a few challenges, which are specific to German.
-
-#### Homonymes, i.e., same sounds but different spelling and meaning.
-Example: 
-
-``` bash    
-statt
-Stadt
-
-das
-dass
-```
- 
-#### German Morphology (word combinations)
-Example: 
-
-``` bash    
-Wettbewerbsumfeld
-Wettbewerbs Umfeld     
-
-Hörverstehensteil
-Hörverstehen steil      
-```
-
-#### Plural (sounds in some cases very similar to the singular, but is spelled differently)
-Example: 
-
-``` bash    
-Kontamination
-Kontaminationen
-
-Prüfungsleistung 
-Prüfungsleistungen
-```
-
 ### German Speech Pipeline
 
 The last task was to create a German Speech Pipeline, that can transcribe Red Hen's News Dataset. I created a Pipeline that automatically picks the Red Hen's German News for a given day, converts it to WAV, transcribes it, and finally formats the data in [Red Hens Data Format](https://sites.google.com/site/distributedlittleredhen/home/the-cognitive-core-research-topics-in-red-hen/red-hen-data-format#TOC-Audio-Pipeline-Tags) adding appropriate Headers and Footers.

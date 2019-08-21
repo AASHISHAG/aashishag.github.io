@@ -208,6 +208,42 @@ $ Actual: Durch das grüne Tal windet sich das murmelnde Flüßchen, aus allen G
 $ Output: Durch das grüne Tal windet sich das murmelnde Flüsschen aus allen Gärten und Baumhainen Logen die schmucken Landhäuser und locken die weißgedeckten Tische der freundlichen Wirte
 ```
 
+### Challenges
+On close observation of the decoded transcripts, my mentor Dr. Jan Gorisch identified a few challenges, which are specific to German.
+
+#### Homonymes, i.e., same sounds but different spelling and meaning.
+Example: 
+
+``` bash    
+statt
+Stadt
+
+das
+dass
+```
+ 
+#### German Morphology (word combinations)
+Example: 
+
+``` bash    
+Wettbewerbsumfeld
+Wettbewerbs Umfeld     
+
+Hörverstehensteil
+Hörverstehen steil      
+```
+
+#### Plural (sounds in some cases very similar to the singular, but is spelled differently)
+Example: 
+
+``` bash    
+Kontamination
+Kontaminationen
+
+Prüfungsleistung 
+Prüfungsleistungen
+```
+
 ### CASE HPC
 
 One of the critical tasks was to run the model on CASE HPC using Singularity. This was almost as challenging as training the model. I even reported a [BUG](https://groups.google.com/a/lbl.gov/forum/?utm_medium=email&utm_source=footer#!topic/singularity/n_6p1BAoTs0). I am thankful to the Standford team for fixing it in overnight. Singularity is based on the same concept of Docker, but it doesn't provide **root**. Singularity offers an environment to hold all the dependencies. [Singularity documentation](https://sylabs.io/guides/2.5/user-guide/quick_start.html) helped to learn most of the concepts. The below image enabled me to understand Singularity.
