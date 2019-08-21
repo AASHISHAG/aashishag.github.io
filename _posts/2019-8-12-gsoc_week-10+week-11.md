@@ -65,7 +65,7 @@ Here are some of the results I obtained after training the model. These results 
 
 **_Some Audio Clips and Results_**
 
-**[DE_01](Male)**
+**[DE_01_Male]**
 
 <audio controls>
   <source src="/others/de_1.wav" type="audio/wav">
@@ -76,7 +76,7 @@ $ Actual: Gerrit erinnerte sich daran dass er einst einen Eid geschworen hatte
 $ Output: Garrett erinnerte sich daran dass er einst einen Eid geschworen hatte
 ```
 
-**[DE_02](Male)**
+**[DE_02_Male]**
 
 <audio controls>
   <source src="/others/de_2.wav" type="audio/wav">
@@ -87,7 +87,7 @@ $ Actual: Wenn man schnell fährt ist man von Emden nach Landshut nicht lange un
 $ Output: Weil man schnell fährt ist man von Emden nach Landshut nicht lange unterwegs
 ```
 
-**[DE_03](Male)**
+**[DE_03_Male]**
 
 <audio controls>
   <source src="/others/de_3.wav" type="audio/wav">
@@ -98,7 +98,7 @@ $ Actual: Valentin hat das Handtuch geworfen
 $ Output: Valentin hat das Handtuch geworfen
 ```
 
-**[DE_04](Male)**
+**[DE_04_Male]**
 
 <audio controls>
   <source src="/others/de_4.wav" type="audio/wav">
@@ -109,7 +109,7 @@ $ Actual: Auf das was jetzt kommt habe ich nämlich absolut keinen Bock
 $ Output: Auf das was jetzt kommt habe ich nämlich absolut keinen Bock
 ```
 
-**[DE_05](Male)**
+**[DE_05_Male]**
 
 <audio controls>
   <source src="/others/de_5.wav" type="audio/wav">
@@ -120,7 +120,7 @@ $ Actual: Ich könnte eine Mitfahrgelegenheit nach Schweinfurt anbieten
 $ Output: Ich könnte eine Mitfahrgelegenheit nach Schweinfurt anbieten
 ```
 
-**[DE_06](Male)**
+**[DE_06_Male]**
 
 <audio controls>
   <source src="/others/de_6.wav" type="audio/wav">
@@ -131,7 +131,7 @@ $ Actual: Man sollte den Länderfinanzausgleich durch einen Bundesligasoli erset
 $ Man sollte den Länderfinanzausgleich durch ein Bundesliga Soli ersetzen
 ```
 
-**[DE_07](Male)**
+**[DE_07_Male]**
 
 <audio controls>
   <source src="/others/de_7.wav" type="audio/wav">
@@ -142,7 +142,7 @@ $ Actual: Von Salzburg ist es doch nicht weit bis zum Chiemsee
 $ Output: Von Salzburg ist es doch nicht weit Bistum Chiemsee
 ```
 
-**[DE_08](Male)**
+**[DE_08_Male]**
 
 <audio controls>
   <source src="/others/de_8.wav" type="audio/wav">
@@ -153,7 +153,7 @@ $ Actual: Selbst für den erfahrensten Chirurgen ist der Tumor eine knifflige He
 $ Output: Selbst für den erfahrensten Chirurgen ist der Tumor eine knifflige raus Federung
 ```
 
-**[DE_09](Male)**
+**[DE_09_Male]**
 
 <audio controls>
   <source src="/others/de_9.wav" type="audio/wav">
@@ -164,7 +164,7 @@ $ Actual: Folgende Lektüre kann ich ihnen zum Thema Kognitionspsychologie empfe
 $ Output: Folgende Lektüre kann ich ihn zum Thema Kognitionspsychologie empfehlen
 ``` 
 
-**[DE_10](Male)**
+**[DE_10_Male]**
 
 <audio controls>
   <source src="/others/de_10.wav" type="audio/wav">
@@ -175,7 +175,7 @@ $ Actual: Warum werden da keine strafrechtlichen Konsequenzen gezogen
 $ Output: Warum werden da keine strafrechtlichen Konsequenzen gezogen
 ```
 
-**[DE_11](Female)**
+**[DE_11_Female]**
 
 <audio controls>
   <source src="/others/de_11.wav" type="audio/wav">
@@ -186,7 +186,7 @@ $ Actual: Cedrik selbst wußte kein Sterbenswörtchen davon nie war etwas Derart
 $ Output: Drake selbst wusste kein Sterbenswörtchen davon nie war etwas Derartiges in seiner Gegenwart auch nur erwähnt worden
 ```
 
-**[DE_12](Female)**
+**[DE_12_Female]**
 
 <audio controls>
   <source src="/others/de_12.wav" type="audio/wav">
@@ -197,7 +197,7 @@ $ Actual: Dann wachsen die Haselsträucher und die Kletterrosen so dicht an den 
 $ Output: Dann wachsen die Haselsträucher und die Kletterrosen so dicht an den Mauern dass man vor lauter grün nicht in die Fenster sehen kann. Dem sie ganz niedrig liegen.
 ```
 
-**[DE_13](Female)**
+**[DE_13_Female]**
 
 <audio controls>
   <source src="/others/de_13.wav" type="audio/wav">
