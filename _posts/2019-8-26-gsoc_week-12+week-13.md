@@ -66,7 +66,7 @@ END|20190817150956|2019-08-17_1500_DE_DasErste_Tagesschau
 ### Challenges
 On close observation of the decoded transcripts, my mentor Dr. Jan Gorisch identified a few challenges, which are specific to German.
 
-1. Homonymes, i.e., same sounds but different spelling and meaning.
+#### Homonymes, i.e., same sounds but different spelling and meaning.
 Example: 
 
 ``` bash    
@@ -77,7 +77,7 @@ das
 dass
 ```
  
-2. German Morphology (word combinations)
+#### German Morphology (word combinations)
 Example: 
 
 ``` bash    
@@ -88,7 +88,7 @@ Hörverstehensteil
 Hörverstehen steil      
 ```
 
-3. Plural (sounds in some cases very similar to the singular, but is spelled differently)
+#### Plural (sounds in some cases very similar to the singular, but is spelled differently)
 Example: 
 
 ``` bash    
