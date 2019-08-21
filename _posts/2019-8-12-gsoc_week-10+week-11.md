@@ -65,7 +65,7 @@ Here are some of the results I obtained after training the model. These results 
 
 **_Some Audio Clips and Results_**
 
-**[DE_01]**
+**[DE_01](Male)**
 
 <audio controls>
   <source src="/others/de_1.wav" type="audio/wav">
@@ -76,7 +76,7 @@ $ Actual: Gerrit erinnerte sich daran dass er einst einen Eid geschworen hatte
 $ Output: Garrett erinnerte sich daran dass er einst einen Eid geschworen hatte
 ```
 
-**[DE_02]**
+**[DE_02](Male)**
 
 <audio controls>
   <source src="/others/de_2.wav" type="audio/wav">
@@ -87,7 +87,7 @@ $ Actual: Wenn man schnell fährt ist man von Emden nach Landshut nicht lange un
 $ Output: Weil man schnell fährt ist man von Emden nach Landshut nicht lange unterwegs
 ```
 
-**[DE_03]**
+**[DE_03](Male)**
 
 <audio controls>
   <source src="/others/de_3.wav" type="audio/wav">
@@ -98,7 +98,7 @@ $ Actual: Valentin hat das Handtuch geworfen
 $ Output: Valentin hat das Handtuch geworfen
 ```
 
-**[DE_04]**
+**[DE_04](Male)**
 
 <audio controls>
   <source src="/others/de_4.wav" type="audio/wav">
@@ -109,7 +109,7 @@ $ Actual: Auf das was jetzt kommt habe ich nämlich absolut keinen Bock
 $ Output: Auf das was jetzt kommt habe ich nämlich absolut keinen Bock
 ```
 
-**[DE_05]**
+**[DE_05](Male)**
 
 <audio controls>
   <source src="/others/de_5.wav" type="audio/wav">
@@ -120,7 +120,7 @@ $ Actual: Ich könnte eine Mitfahrgelegenheit nach Schweinfurt anbieten
 $ Output: Ich könnte eine Mitfahrgelegenheit nach Schweinfurt anbieten
 ```
 
-**[DE_06]**
+**[DE_06](Male)**
 
 <audio controls>
   <source src="/others/de_6.wav" type="audio/wav">
@@ -131,7 +131,7 @@ $ Actual: Man sollte den Länderfinanzausgleich durch einen Bundesligasoli erset
 $ Man sollte den Länderfinanzausgleich durch ein Bundesliga Soli ersetzen
 ```
 
-**[DE_07]**
+**[DE_07](Male)**
 
 <audio controls>
   <source src="/others/de_7.wav" type="audio/wav">
@@ -142,7 +142,7 @@ $ Actual: Von Salzburg ist es doch nicht weit bis zum Chiemsee
 $ Output: Von Salzburg ist es doch nicht weit Bistum Chiemsee
 ```
 
-**[DE_08]**
+**[DE_08](Male)**
 
 <audio controls>
   <source src="/others/de_8.wav" type="audio/wav">
@@ -153,7 +153,7 @@ $ Actual: Selbst für den erfahrensten Chirurgen ist der Tumor eine knifflige He
 $ Output: Selbst für den erfahrensten Chirurgen ist der Tumor eine knifflige raus Federung
 ```
 
-**[DE_09]**
+**[DE_09](Male)**
 
 <audio controls>
   <source src="/others/de_9.wav" type="audio/wav">
@@ -164,7 +164,7 @@ $ Actual: Folgende Lektüre kann ich ihnen zum Thema Kognitionspsychologie empfe
 $ Output: Folgende Lektüre kann ich ihn zum Thema Kognitionspsychologie empfehlen
 ``` 
 
-**[DE_10]**
+**[DE_10](Male)**
 
 <audio controls>
   <source src="/others/de_10.wav" type="audio/wav">
@@ -173,6 +173,39 @@ $ Output: Folgende Lektüre kann ich ihn zum Thema Kognitionspsychologie empfehl
 ``` bash
 $ Actual: Warum werden da keine strafrechtlichen Konsequenzen gezogen
 $ Output: Warum werden da keine strafrechtlichen Konsequenzen gezogen
+```
+
+**[DE_11](Female)**
+
+<audio controls>
+  <source src="/others/de_11.wav" type="audio/wav">
+</audio>
+
+``` bash
+$ Actual: Cedrik selbst wußte kein Sterbenswörtchen davon nie war etwas Derartiges in seiner Gegenwart auch nur erwähnt worden
+$ Output: Drake selbst wusste kein Sterbenswörtchen davon nie war etwas Derartiges in seiner Gegenwart auch nur erwähnt worden
+```
+
+**[DE_12](Female)**
+
+<audio controls>
+  <source src="/others/de_12.wav" type="audio/wav">
+</audio>
+
+``` bash
+$ Actual: Dann wachsen die Haselsträucher und die Kletterrosen so dicht an den Mauern, daß man vor lauter Grün nicht in die Fenster sehen kann, trotzdem sie ganz niedrig liegen
+$ Output: Dann wachsen die Haselsträucher und die Kletterrosen so dicht an den Mauern dass man vor lauter grün nicht in die Fenster sehen kann. Dem sie ganz niedrig liegen.
+```
+
+**[DE_13](Female)**
+
+<audio controls>
+  <source src="/others/de_13.wav" type="audio/wav">
+</audio>
+
+``` bash
+$ Actual: Durch das grüne Tal windet sich das murmelnde Flüßchen, aus allen Gärten und Baumhainen lugen die schmucken Landhäuser und locken die weißgedeckten Tische der freundlichen Wirte
+$ Output: Durch das grüne Tal windet sich das murmelnde Flüsschen aus allen Gärten und Baumhainen Logen die schmucken Landhäuser und locken die weißgedeckten Tische der freundlichen Wirte
 ```
 
 ### CASE HPC
