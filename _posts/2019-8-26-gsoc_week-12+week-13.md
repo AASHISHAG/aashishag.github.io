@@ -35,6 +35,12 @@ The last task was to create a German Speech Pipeline, that can transcribe Red He
 
 I took inspiration from Red Hen's Chinese Speech Pipeline to achieve this daunting task, and I want to thank Ziyi Liu for appropriate guiding. 
 
+I implemented two solutions for Red Hen's News dataset transcription.
+
+1. Contionous Speech Transcription.
+2. Speech Transcript using Voice Activity Detection (VAD)
+
+I used [WebrtcVAD](https://github.com/wiseman/py-webrtcvad) to split long audio clips into smaller clips. This is a python interface to the WebRTC Voice Activity Detector (VAD). A [VAD](https://en.wikipedia.org/wiki/Voice_activity_detection) classifies a piece of audio data as being voiced or unvoiced. 
 
 ![](
 /others/speech-recognition-pipeline-3.png)
