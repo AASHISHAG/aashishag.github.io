@@ -37,7 +37,7 @@ I took inspiration from Red Hen's Chinese Speech Pipeline to achieve this daunti
 
 I implemented two solutions for Red Hen's News dataset transcription.
 
-1. Contionous Speech Transcription.
+1. Continuous Speech Transcription.
 2. Speech Transcript using Voice Activity Detection (VAD)
 
 I used [WebrtcVAD](https://github.com/wiseman/py-webrtcvad) to split long audio clips into smaller clips. This is a python interface to the WebRTC Voice Activity Detector (VAD). A [VAD](https://en.wikipedia.org/wiki/Voice_activity_detection) classifies a piece of audio data as being voiced or unvoiced. 
@@ -55,8 +55,8 @@ $ ./run-model-vad.slurm specify_the_number_of_days_from_the_current_date_the_mod
 This is a small excerpt from the Red Hen News Dataset. The MP4 files are programmatically converted to WAV and fed to Kaldi-Gstreamer-Server. The model output, i.e., the transcripts are further formatted to adopt [Red Hen's Data Format](https://sites.google.com/site/distributedlittleredhen/home/the-cognitive-core-research-topics-in-red-hen/red-hen-data-format#TOC-Audio-Pipeline-Tags).
     
 **_Continuous Speech Transcript_**
-	
-``` bash	
+    
+``` bash    
 TOP|20190817150002|2019-08-17_1500_DE_DasErste_Tagesschau
 COL|Communication Studies Archive, UCLA
 UID|29979bf0-c101-11e9-a5ab-3bdd627efb4b
@@ -74,7 +74,7 @@ END|20190817150956|2019-08-17_1500_DE_DasErste_Tagesschau
 
 **_Speech Transcript using Voice Activity Detection (VAD)_**
 
-``` bash	
+``` bash    
 TOP|20190817150002|2019-08-17_1500_DE_DasErste_Tagesschau
 COL|Communication Studies Archive, UCLA
 UID|29979bf0-c101-11e9-a5ab-3bdd627efb4b
@@ -115,7 +115,7 @@ END|20190817150956|2019-08-17_1500_DE_DasErste_Tagesschau
 
 ### Future Work
 
-1. Since, Red Hen transcribes News. It would interesting to train model with News Data and check for the results.
+1. Since Red Hen transcribes News. It would be interesting to train a model with News Data and check for the results.
 2. Work on the challenges, namely Homonymes, German Morphology, and Plural words.
 
 This ends my 13 weeks journey at [Red Hen Lab](http://www.redhenlab.org/home) for GSoC-2019. I enjoyed working with the team, and I learned a lot solving the challenges. I want to specially thanks to my mentor Dr. Jan Gorisch, for providing valuable comments and guiding me over my journey!
