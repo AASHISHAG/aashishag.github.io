@@ -115,8 +115,9 @@ END|20190817150956|2019-08-17_1500_DE_DasErste_Tagesschau
 
 ### Future Work
 
-1. Since Red Hen transcribes News. It would be interesting to train a model with News Data and check for the results.
-2. Work on the challenges, namely Homonymes, German Morphology, and Plural words.
+1. As Red Hen's transcribes News. It would be interesting to train the model with News data and check for the improvements in the result.
+
+2.  Also, Dan Povey (Kaldi’s Architect) has suggested using BPE (Byte Pair Encoding) for Acoustic and Language Modelling. Thus, essentially relying on graphemes and not on the lexicon to solve the Homonyms, Morphology and Plural challenges.
 
 This ends my 13 weeks journey at [Red Hen Lab](http://www.redhenlab.org/home) for GSoC-2019. I enjoyed working with the team, and I learned a lot solving the challenges. I want to specially thanks to my mentor Dr. Jan Gorisch, for providing valuable comments and guiding me over my journey!
 
